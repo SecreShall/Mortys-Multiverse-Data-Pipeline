@@ -23,7 +23,6 @@ This pipeline retrieves and stores structured data from the Rick and Morty API, 
 - 🗄 **MySQL** (Database storage & querying)
 - 🔗 **Requests** (For making API calls)
 - 📊 **Pandas** (Data transformation)
-- ⚙️ **SQLAlchemy** (Database connection & management)
 - 🌍 **Rick and Morty API** (Data source)
 
 ## 📂 Database Schema
