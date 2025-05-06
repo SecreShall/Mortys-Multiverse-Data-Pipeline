@@ -1,8 +1,6 @@
 import requests
 import pandas as pd
 
-
-
 def exctract():
 
     # Extract all location data
@@ -35,7 +33,7 @@ def exctract():
                 )
             print(f"Location ID {index} added to data frame")
     # Save location data to csv
-    df_location.to_csv("extracted_location_data.csv")
+    df_location.to_csv("Data/extracted_location_data.csv")
     print(f"Saved Location Data to CSV")
 
 
@@ -71,10 +69,40 @@ def exctract():
                 )
             print(f"Character ID {index} added to data frame")
     # Save character data to csv
-    df_character.to_csv("extracted_character_data.csv")
+    df_character.to_csv("Data/extracted_character_data.csv")
     print(f"Saved Character Data to CSV")
 
-    
-    
 
-exctract()
+
+
+def transform():
+    # Location -----------------------------------------------------
+    # Read location data
+    df_location = pd.read_csv('Data/extracted_location_data.csv')
+
+    # Fill null values of columns and drop an unwated column
+    df_location['type'] = df_location['type'].fillna('unknown')
+    df_location['dimension'] = df_location['dimension'].fillna('unknown')
+    df_location = df_location.drop(columns=['Unnamed: 0'])
+
+
+    # Character ---------------------------------------------------
+    # Read character data
+    df_character = pd.read_csv('Data/extracted_character_data.csv')
+
+    # Fill null values of columns
+    df_character['type'] = df_character['type'].fillna('unknown')
+    df_character['origin'] = df_character['origin'].str.split('/').str[5].fillna(0).astype(int)
+    df_character['location'] = df_character['location'].str.split('/').str[5].fillna(0).astype(int)
+
+    # remove duplicates of character data
+    clean_character = df_character.drop_duplicates(subset=['name','status','species','type','gender', 'origin', 'location','episode'], keep='first')
+
+    # Reset the id to remove unique id gap and drop an unwated column
+    clean_character = clean_character.reset_index(drop=True) 
+    clean_character['id'] = range(1, len(clean_character) + 1)
+    clean_character = clean_character.drop(columns=['Unnamed: 0'])
+
+    # Output cleaned data as csv
+    df_location.to_csv('Data/transformed_location_data.csv')
+    clean_character.to_csv('Data/transformed_character_data.csv')

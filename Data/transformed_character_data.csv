@@ -1,0 +1,801 @@
+,id,name,status,species,type,gender,origin,location,episode
+0,1,Rick Sanchez,Alive,Human,unknown,Male,1,3,51
+1,2,Morty Smith,Alive,Human,unknown,Male,0,3,51
+2,3,Summer Smith,Alive,Human,unknown,Female,20,20,42
+3,4,Beth Smith,Alive,Human,unknown,Female,20,20,42
+4,5,Jerry Smith,Alive,Human,unknown,Male,20,20,39
+5,6,Abadango Cluster Princess,Alive,Alien,unknown,Female,2,2,1
+6,7,Abradolf Lincler,unknown,Human,Genetic experiment,Male,20,21,2
+7,8,Adjudicator Rick,Dead,Human,unknown,Male,0,3,1
+8,9,Agency Director,Dead,Human,unknown,Male,20,20,1
+9,10,Alan Rails,Dead,Human,Superhuman (Ghost trains summoner),Male,0,4,1
+10,11,Albert Einstein,Dead,Human,unknown,Male,1,20,1
+11,12,Alexander,Dead,Human,unknown,Male,1,5,1
+12,13,Alien Googah,unknown,Alien,unknown,unknown,0,20,1
+13,14,Alien Morty,unknown,Alien,unknown,Male,0,3,1
+14,15,Alien Rick,unknown,Alien,unknown,Male,0,3,1
+15,16,Amish Cyborg,Dead,Alien,Parasite,Male,0,20,1
+16,17,Annie,Alive,Human,unknown,Female,1,5,1
+17,18,Antenna Morty,Alive,Human,Human with antennae,Male,0,3,2
+18,19,Antenna Rick,unknown,Human,Human with antennae,Male,0,0,1
+19,20,Ants in my Eyes Johnson,unknown,Human,Human with ants in his eyes,Male,0,6,1
+20,21,Aqua Morty,unknown,Humanoid,Fish-Person,Male,0,3,2
+21,22,Aqua Rick,unknown,Humanoid,Fish-Person,Male,0,3,3
+22,23,Arcade Alien,unknown,Alien,unknown,Male,0,7,5
+23,24,Armagheadon,Alive,Alien,Cromulon,Male,22,22,1
+24,25,Armothy,Dead,unknown,Self-aware arm,Male,8,8,1
+25,26,Arthricia,Alive,Alien,Cat-Person,Female,9,9,1
+26,27,Artist Morty,Alive,Human,unknown,Male,0,3,2
+27,28,Attila Starwar,Alive,Human,unknown,Male,0,6,3
+28,29,Baby Legs,Alive,Human,Human with baby legs,Male,0,6,1
+29,30,Baby Poopybutthole,Alive,Poopybutthole,unknown,Male,0,0,1
+30,31,Baby Wizard,Dead,Alien,Parasite,Male,0,20,1
+31,32,Bearded Lady,Dead,Alien,Parasite,Female,0,20,1
+32,33,Beebo,Dead,Alien,unknown,Male,10,10,1
+33,34,Benjamin,Alive,Poopybutthole,unknown,Male,0,6,3
+34,35,Bepisian,Alive,Alien,Bepisian,unknown,11,11,4
+35,36,Beta-Seven,Alive,Alien,Hivemind,unknown,0,0,1
+36,37,Beth Sanchez,Alive,Human,unknown,Female,23,23,1
+37,38,Beth Smith,Alive,Human,unknown,Female,1,1,8
+38,39,Beth Smith,Alive,Human,unknown,Female,34,34,1
+39,40,Beth's Mytholog,Dead,Mythological Creature,Mytholog,Female,13,13,1
+40,41,Big Boobed Waitress,Alive,Mythological Creature,unknown,Female,48,48,1
+41,42,Big Head Morty,unknown,Human,Human with giant head,Male,0,3,1
+42,43,Big Morty,Dead,Human,unknown,Male,0,3,1
+43,44,Body Guard Morty,Dead,Human,unknown,Male,0,3,1
+44,45,Bill,Alive,Human,unknown,Male,1,1,1
+45,46,Bill,unknown,Animal,Dog,Male,20,0,1
+46,47,Birdperson,Alive,Alien,Bird-Person,Male,15,35,7
+47,48,Black Rick,Alive,Human,unknown,Male,0,3,2
+48,49,Blamph,Alive,Alien,unknown,unknown,0,6,1
+49,50,Blim Blam,Alive,Alien,Korblock,Male,0,20,1
+50,51,Blue Diplomat,Alive,Alien,unknown,Male,0,6,1
+51,52,Blue Footprint Guy,Dead,Human,unknown,Male,8,8,1
+52,53,Blue Shirt Morty,unknown,Human,unknown,Male,0,3,1
+53,54,Bobby Moynihan,Alive,Human,unknown,Male,0,6,1
+54,55,Boobloosian,Dead,Alien,Boobloosian,unknown,0,13,2
+55,56,Bootleg Portal Chemist Rick,Dead,Human,unknown,Male,0,3,1
+56,57,Borpocian,Alive,Alien,Elephant-Person,Male,0,0,1
+57,58,Brad,Alive,Human,unknown,Male,20,20,4
+58,59,Brad Anderson,Dead,Human,unknown,Male,20,20,1
+59,60,Calypso,Dead,Human,Superhuman,Female,0,0,1
+60,61,Campaign Manager Morty,Dead,Human,unknown,Male,0,3,1
+61,62,Canklanker Thom,Dead,Alien,Gromflomite,Male,19,0,1
+62,63,Centaur,Alive,Mythological Creature,Centaur,Male,0,18,1
+63,64,Chris,Dead,Alien,Organic gun,unknown,0,20,1
+64,65,Chris,Alive,Humanoid,Microverse inhabitant,Male,24,24,1
+65,66,Coach Feratu (Balik Alistane),Dead,Mythological Creature,Vampire,Male,20,20,1
+66,67,Collector,Alive,Alien,Light bulb-Alien,Male,25,25,1
+67,68,Colossus,Dead,Human,unknown,Male,8,8,1
+68,69,Commander Rick,Dead,Human,unknown,Male,0,3,1
+69,70,Concerto,Dead,Humanoid,unknown,Male,0,0,1
+70,71,Conroy,Dead,Robot,unknown,unknown,20,1,1
+71,72,Cool Rick,Alive,Human,unknown,Male,26,3,1
+72,73,Cop Morty,Dead,Human,unknown,Male,0,3,1
+73,74,Cop Rick,Alive,Human,unknown,Male,0,3,1
+74,75,Courier Flap,Alive,Alien,unknown,unknown,0,35,1
+75,76,Cousin Nicky,Dead,Alien,Parasite,Male,0,20,1
+76,77,Cowboy Morty,Alive,Human,unknown,Male,0,3,1
+77,78,Cowboy Rick,Alive,Human,unknown,Male,0,3,2
+78,79,Crab Spider,Alive,Alien,Animal,unknown,27,27,1
+79,80,Creepy Little Girl,Alive,Human,unknown,Female,0,18,1
+80,81,Crocubot,Dead,Animal,Robot-Crocodile hybrid,Male,0,4,1
+81,82,Cronenberg Rick,unknown,Cronenberg,unknown,Male,12,1,2
+82,83,Cronenberg Morty,unknown,Cronenberg,unknown,Male,12,1,2
+83,84,Cult Leader Morty,Alive,Human,unknown,Male,0,27,1
+84,85,Cyclops Morty,Alive,Humanoid,unknown,Male,0,3,2
+85,86,Cyclops Rick,Dead,Humanoid,unknown,Male,0,3,3
+86,87,Cynthia,Dead,Alien,Zigerion,Female,0,46,1
+87,88,Cynthia,Alive,Human,unknown,Female,20,20,4
+88,89,Dale,Dead,Mythological Creature,Giant,Male,14,14,1
+89,90,Daron Jefferson,Alive,Alien,Cone-nippled alien,Male,28,28,1
+90,91,David Letterman,Alive,Human,unknown,Male,23,23,1
+91,92,Davin,Dead,Human,unknown,Male,1,1,2
+92,93,Diablo Verde,Dead,Mythological Creature,Demon,Male,0,29,1
+93,94,Diane Sanchez,Dead,Human,unknown,Female,1,126,2
+94,95,Dipper and Mabel Mortys,unknown,Human,unknown,unknown,0,3,1
+95,96,Tuberculosis,Dead,Disease,unknown,unknown,5,5,1
+96,97,Gonorrhea,Dead,Disease,unknown,unknown,5,5,1
+97,98,Hepatitis A,Dead,Disease,unknown,unknown,5,5,1
+98,99,Hepatitis C,Dead,Disease,unknown,unknown,5,5,1
+99,100,Bubonic Plague,Dead,Disease,unknown,unknown,5,5,1
+100,101,E. Coli,Dead,Disease,unknown,unknown,5,5,1
+101,102,Donna Gueterman,Dead,Robot,unknown,Female,0,35,1
+102,103,Doofus Rick,unknown,Human,unknown,Male,31,20,2
+103,104,Doom-Nomitron,Dead,Alien,Shapeshifter,unknown,0,29,1
+104,105,Dr. Glip-Glop,Dead,Alien,unknown,Male,0,16,1
+105,106,Dr. Schmidt,unknown,Human,Game,Male,32,32,1
+106,107,Dr. Wong,Alive,Human,unknown,Female,20,20,2
+107,108,Dr. Xenon Bloom,Dead,Humanoid,Amoeba-Person,Male,0,5,1
+108,109,Duck With Muscles,Dead,Alien,Parasite,Male,0,20,1
+109,110,Eli,Alive,Human,unknown,Male,8,8,1
+110,111,Eli's Girlfriend,Alive,Human,unknown,Female,8,8,1
+111,112,Eric McMan,Alive,Human,unknown,Male,1,1,1
+112,113,Eric Stoltz Mask Morty,unknown,Human,unknown,Male,33,20,1
+113,114,Ethan,unknown,Human,Cronenberg,Male,1,1,1
+114,115,Ethan,Alive,Human,unknown,Male,20,20,2
+115,116,Evil Beth Clone,Dead,Human,Clone,Female,0,1,1
+116,117,Evil Jerry Clone,Dead,Human,Clone,Male,0,1,1
+117,118,Evil Morty,Alive,Human,unknown,Male,0,3,3
+118,119,Evil Rick,Dead,Humanoid,Robot,Male,0,3,1
+119,120,Evil Summer Clone,Dead,Human,Clone,Female,0,1,1
+120,121,Eyehole Man,Alive,Alien,unknown,Male,0,6,1
+121,122,Fart,Dead,Alien,Interdimensional gaseous being,Male,0,0,1
+122,123,Fat Morty,Alive,Human,unknown,Male,0,3,1
+123,124,Father Bob,Alive,Human,unknown,Male,20,20,2
+124,125,Flansian,Alive,Alien,Flansian,unknown,0,35,3
+125,126,Fleeb,unknown,Alien,unknown,unknown,0,6,1
+126,127,Frank Palicky,Dead,Human,unknown,Male,1,1,1
+127,128,Frankenstein's Monster,Dead,Alien,Parasite,Male,0,20,1
+128,129,Fulgora,Alive,Human,unknown,Female,0,6,3
+129,130,Galactic Federation President,Dead,Alien,Gromflomite,Male,0,0,1
+130,131,Gar Gloonch,Dead,Alien,Zombodian,Male,0,13,3
+131,132,Gar's Mytholog,Dead,Mythological Creature,Mytholog,Male,13,13,1
+132,133,Garblovian,Alive,Alien,Garblovian,Male,36,0,3
+133,134,Garmanarnar,Alive,Alien,unknown,Male,0,6,1
+134,135,Garment District Rick,Dead,Human,unknown,Male,0,3,1
+135,136,Gazorpazorpfield,Alive,Alien,Gazorpian,Male,40,6,2
+136,137,Gene,Alive,Human,unknown,Male,20,20,2
+137,138,General Nathan,Dead,Human,unknown,Male,20,20,1
+138,139,General Store Owner,Dead,Alien,Cat-Person,Male,9,9,1
+139,140,Genital Washer,Alive,Human,unknown,Male,8,8,1
+140,141,Ghost in a Jar,Dead,Alien,Parasite,Genderless,0,20,1
+141,142,Gibble Snake,Dead,Alien,Animal,unknown,37,37,1
+142,143,Glasses Morty,Alive,Human,unknown,Male,0,3,1
+143,144,Glenn,Dead,Alien,Gromflomite,Male,0,38,1
+144,145,Glenn,Alive,Human,Eat shiter-Person,Male,0,6,1
+145,146,Glexo Slim Slom,Alive,Alien,unknown,Male,0,13,1
+146,147,Gobo,Dead,Alien,unknown,Male,0,20,1
+147,148,Goddess Beth,unknown,Mythological Creature,Goddess,Female,13,13,1
+148,149,Gordon Lunas,Dead,Human,unknown,Male,0,20,1
+149,150,Cornvelious Daniel,Dead,Alien,Gromflomite,Male,0,39,1
+150,151,Gwendolyn,unknown,Robot,Gazorpian reproduction robot,Female,40,20,1
+151,152,Hammerhead Morty,unknown,Humanoid,Hammerhead-Person,Male,0,3,2
+152,153,Hamster In Butt,Alive,Animal,unknown,unknown,41,41,2
+153,154,Hamurai,Dead,Alien,Parasite,Male,0,20,1
+154,155,Harold,Alive,Cronenberg,unknown,Male,1,1,1
+155,156,Hemorrhage,Alive,Human,unknown,Male,8,8,1
+156,157,Hole in the Wall Where the Men Can See it All,unknown,unknown,Hole,Genderless,0,6,1
+157,158,Hookah Alien,Alive,Alien,Tuskfish,unknown,0,38,1
+158,159,Hunter,Dead,Human,Clone,Male,42,42,1
+159,160,Hunter's Father,Alive,Human,unknown,Male,42,42,1
+160,161,Hydrogen-F,Alive,Alien,Alphabetrian,Female,43,43,1
+161,162,Ice-T,Alive,Alien,Alphabetrian,Male,43,43,1
+162,163,Ideal Jerry,Dead,Mythological Creature,Mytholog,Male,13,13,1
+163,164,Insurance Rick,unknown,Human,unknown,Male,0,3,1
+164,165,Investigator Rick,Dead,Human,unknown,Male,0,3,1
+165,166,Invisi-trooper,Alive,Human,unknown,Male,20,20,1
+166,167,Izzy,Alive,Animal,Cat,unknown,20,20,1
+167,168,Jackie,Alive,Alien,Gazorpian,Female,40,40,1
+168,169,Jacob,Alive,Human,unknown,Male,1,1,2
+169,170,Jacqueline,Alive,Human,unknown,Female,20,20,1
+170,171,Jaguar,Alive,Human,unknown,Male,20,20,1
+171,172,Jamey,Alive,Human,unknown,Male,20,20,1
+172,173,Jan-Michael Vincent,Alive,Human,unknown,Male,0,6,1
+173,174,Jerry 5-126,Alive,Human,unknown,Male,17,44,1
+174,175,Jerry Smith,Alive,Human,unknown,Male,1,1,7
+175,176,Celebrity Jerry,Alive,Human,unknown,Male,23,23,1
+176,177,Jerry Smith,Alive,Human,unknown,Male,34,34,1
+177,178,Jerry's Mytholog,Dead,Mythological Creature,Mytholog,Male,13,13,1
+178,179,Jessica,Alive,Cronenberg,unknown,Female,1,1,3
+179,180,Jessica,Alive,Human,Time God,Female,20,20,12
+180,181,Jessica's Friend,Alive,Human,unknown,Female,1,20,8
+181,182,Jim,Alive,Human,unknown,Male,20,20,1
+182,183,Johnny Depp,Alive,Human,unknown,Male,23,23,1
+183,184,Jon,Alive,Alien,Gazorpian,Male,40,6,1
+184,185,Joseph Eli Lipkip,Alive,Human,unknown,Male,20,20,1
+185,186,Joyce Smith,Alive,Human,unknown,Female,1,1,1
+186,187,Juggling Rick,unknown,Human,unknown,Male,0,3,1
+187,188,Karen Entity,Alive,Alien,Unknown-nippled alien,Female,28,28,1
+188,189,Katarina,Dead,Human,unknown,Female,20,20,1
+189,190,Keara,Alive,Alien,Krootabulan,Female,45,20,1
+190,191,Kevin,Dead,Alien,Zigerion,Male,0,46,1
+191,192,King Flippy Nips,Alive,Alien,Plutonian,Male,47,47,1
+192,193,King Jellybean,Dead,Mythological Creature,Jellybean,Male,48,48,1
+193,194,Kozbian,Alive,Alien,Tentacle alien,unknown,0,35,1
+194,195,Kristen Stewart,Alive,Human,unknown,Female,23,23,1
+195,196,Krombopulos Michael,Dead,Alien,Gromflomite,Male,0,0,1
+196,197,Kyle,Dead,Humanoid,Miniverse inhabitant,Male,49,50,1
+197,198,Lady Katana,Dead,Humanoid,Cyborg,Female,0,29,1
+198,199,Larva Alien,Alive,Alien,Larva alien,unknown,51,35,3
+199,200,Lawyer Morty,unknown,Human,unknown,Male,0,3,1
+200,201,Leonard Smith,Alive,Human,unknown,Male,1,1,1
+201,202,Lighthouse Keeper,Dead,Alien,Cat-Person,Male,9,9,1
+202,203,Lil B,Dead,Alien,Snail alien,Male,0,20,2
+203,204,Lisa,Dead,Alien,unknown,Female,0,7,1
+204,205,Little Dipper,Alive,Humanoid,Tinymouth,Male,0,6,1
+205,206,Lizard Morty,Alive,Humanoid,Lizard-Person,Male,0,3,1
+206,207,Loggins,Alive,Alien,Alligator-Person,Male,0,6,3
+207,208,Logic,Alive,Human,unknown,Male,0,4,1
+208,209,Long Sleeved Morty,unknown,Human,unknown,Male,0,3,1
+209,210,Lucy,Dead,Human,unknown,Female,20,20,1
+210,211,Ma-Sha,Alive,Alien,Gazorpian,Female,40,40,1
+211,212,Magma-Q,Dead,Alien,Alphabetrian,Male,43,43,1
+212,213,Magnesium-J,Alive,Alien,Alphabetrian,Male,43,43,1
+213,214,Man Painted Silver Who Makes Robot Noises,Alive,Human,unknown,Male,0,6,1
+214,215,Maximums Rickimus,Dead,Human,unknown,Male,0,126,3
+215,216,MC Haps,Alive,Human,unknown,Male,1,1,3
+216,217,Mechanical Morty,Dead,Robot,unknown,Male,20,20,1
+217,218,Mechanical Rick,unknown,Robot,unknown,Male,20,20,1
+218,219,Mechanical Summer,unknown,Robot,unknown,Female,20,20,1
+219,220,Mega Fruit Farmer Rick,Alive,Human,unknown,Male,0,3,1
+220,221,Melissa,Alive,Mythological Creature,Monster,Female,18,18,1
+221,222,Michael Denny and the Denny Singers,Alive,Human,unknown,Male,0,6,1
+222,223,Michael Jenkins,Dead,Human,unknown,Male,0,6,1
+223,224,Michael McLick,Alive,Human,unknown,Male,0,6,1
+224,225,Michael Thompson,Alive,Humanoid,Conjoined twin,Male,0,6,1
+225,226,Million Ants,Dead,Animal,Sentient ant colony,Male,0,4,1
+226,227,Mitch,Alive,Human,unknown,Male,20,20,1
+227,228,Mohawk Guy,Dead,Human,unknown,Male,8,8,1
+228,229,Morty Mart Manager Morty,Alive,Human,unknown,Male,0,3,1
+229,230,Morty Jr.,Alive,Humanoid,Human Gazorpian,Male,20,20,1
+230,231,Morty Rick,unknown,Human,unknown,Male,0,3,1
+231,232,Morty Smith,Alive,Human,unknown,Male,34,34,1
+232,233,Morty K-22,Alive,Human,unknown,Male,52,20,1
+233,234,Morty Smith,Dead,Human,unknown,Male,20,20,1
+234,235,Mortytown Loco,Dead,Human,unknown,Male,0,3,1
+235,236,Mr. Beauregard,Dead,Alien,Parasite,Male,0,20,1
+236,237,Mr. Benson,Alive,Human,unknown,Male,20,20,1
+237,238,Mr. Booby Buyer,Alive,Mythological Creature,Boobie buyer reptilian,Male,48,48,1
+238,239,Mr. Goldenfold,Alive,Cronenberg,unknown,Male,1,1,4
+239,240,Mr. Goldenfold,Alive,Human,unknown,Male,20,20,10
+240,241,Mr. Marklovitz,Alive,Human,unknown,Male,1,20,2
+241,242,Mr. Meeseeks,unknown,Humanoid,Meeseeks,Male,53,77,5
+242,243,Mr. Needful,Alive,Humanoid,The Devil,Male,0,20,1
+243,244,Mr. Poopybutthole,Alive,Poopybutthole,unknown,Male,0,20,7
+244,245,Mrs. Lipkip,Alive,Human,unknown,Female,20,20,1
+245,246,Mrs. Pancakes,Alive,Human,unknown,Female,1,18,2
+246,247,Amy Poopybutthole,Alive,Poopybutthole,unknown,Female,0,0,1
+247,248,Mrs. Refrigerator,Dead,Alien,Parasite,Female,0,20,1
+248,249,Mrs. Sanchez,unknown,Human,unknown,Female,0,0,4
+249,250,Mrs. Sullivan,Dead,Human,Cat controlled dead lady,Female,23,6,1
+250,251,Nancy,Alive,Human,unknown,Female,20,20,6
+251,252,Noob-Noob,Alive,Poopybutthole,unknown,Male,0,54,1
+252,253,Numbericon,unknown,Alien,Numbericon,unknown,0,43,1
+253,254,Octopus Man,Alive,Humanoid,Octopus-Person,Male,0,6,1
+254,255,Orthodox Jew,Alive,Human,unknown,Male,20,20,1
+255,256,Pat Gueterman,Dead,Robot,unknown,Male,0,35,1
+256,257,Paul Fleishman,Alive,Human,unknown,Male,0,44,1
+257,258,Pawnshop Clerk,Alive,Alien,unknown,Male,0,55,1
+258,259,Pencilvester,Dead,Alien,Parasite,Male,0,20,1
+259,260,Phillip Jacobs,Alive,Human,unknown,Male,0,6,1
+260,261,Photography Cyborg,unknown,Robot,unknown,Male,0,35,1
+261,262,Photography Raptor,Dead,Alien,Parasite,unknown,0,20,1
+262,263,Pibbles Bodyguard,Alive,Alien,Hairy alien,Male,0,16,1
+263,264,Pichael Thompson,Alive,Humanoid,Conjoined twin,Male,0,6,1
+264,265,Pickle Rick,Alive,unknown,Pickle,Male,1,20,1
+265,266,Piece of Toast,Alive,unknown,Bread,Genderless,0,6,2
+266,267,Plumber Rick,Alive,Human,unknown,Male,0,3,1
+267,268,Poncho,Dead,Human,unknown,Male,0,5,1
+268,269,Presidentress of The Mega Gargantuans,Alive,Humanoid,Mega Gargantuan,Female,56,56,1
+269,270,Prince Nebulon,Dead,Alien,Zigerion,Male,0,46,1
+270,271,Principal Vagina,Alive,Cronenberg,unknown,Male,1,1,3
+271,272,Principal Vagina,Alive,Human,unknown,Male,20,20,6
+272,273,Purge Planet Ruler,Dead,Alien,Cat-Person,Male,9,9,1
+273,274,Quantum Rick,unknown,Human,unknown,Male,0,126,3
+274,275,Randy Dicknose,Alive,Human,unknown,Male,0,6,1
+275,276,Rat Boss,Dead,Animal,Rat,unknown,20,20,1
+276,277,Real Fake Doors Salesman,Alive,Human,unknown,Male,0,6,1
+277,278,Regional Manager Rick,Dead,Human,unknown,Male,0,3,1
+278,279,Regular Legs,Alive,Human,unknown,Male,0,6,1
+279,280,Reverse Giraffe,Dead,Alien,Parasite,Male,0,20,1
+280,281,Reverse Rick Outrage,Dead,Human,unknown,Male,0,3,1
+281,282,Revolio Clockberg Jr.,unknown,Alien,Gear-Person,Male,57,57,3
+282,283,Rick D. Sanchez III,Dead,Human,unknown,Male,0,3,1
+283,284,Rick Guilt Rick,unknown,Human,unknown,Male,0,3,1
+284,285,Rick Prime,Dead,Human,unknown,Male,0,3,2
+285,286,Rick D-99,Dead,Human,unknown,Male,58,3,1
+286,287,Rick D716,Dead,Human,unknown,Male,59,3,1
+287,288,Rick D716-B,Alive,Human,unknown,Male,60,3,1
+288,289,Rick D716-C,Alive,Human,unknown,Male,61,3,1
+289,290,Rick Sanchez,Dead,Human,unknown,Male,34,34,1
+290,291,Rick J-22,Alive,Human,unknown,Male,62,3,1
+291,292,Rick K-22,Alive,Human,unknown,Male,52,20,1
+292,293,Rick Sanchez,Dead,Human,unknown,Male,20,20,1
+293,294,Ricktiminus Sancheziminius,Dead,Human,unknown,Male,0,126,3
+294,295,Riq IV,Dead,Human,unknown,Male,0,3,3
+295,296,Risotto Groupon,Dead,Alien,Blue ape alien,Male,37,37,1
+296,297,Risotto's Tentacled Henchman,Dead,Alien,Tentacle alien,Male,37,37,1
+297,298,Robot Morty,unknown,Robot,unknown,Male,0,3,1
+298,299,Robot Rick,unknown,Robot,unknown,Male,0,3,1
+299,300,Roger,Dead,Human,unknown,Male,1,5,1
+300,301,Ron Benson,Alive,Alien,Ring-nippled alien,Male,28,28,1
+301,302,Ruben,Dead,Human,unknown,Male,1,1,1
+302,303,Samantha,Alive,Human,unknown,Female,1,1,1
+303,304,Scary Brandon,Alive,Mythological Creature,Monster,Male,18,18,1
+304,305,Scary Glenn,Alive,Mythological Creature,Monster,Male,18,18,1
+305,306,Scary Terry,Alive,Mythological Creature,Monster,Male,18,18,1
+306,307,Scroopy Noopers,Alive,Alien,Plutonian,Male,47,47,1
+307,308,Scropon,unknown,Alien,Lobster-Alien,Male,0,35,2
+308,309,Scrotian,Alive,Animal,Scrotian,Male,0,22,4
+309,310,Self-Congratulatory Jerry,unknown,Mythological Creature,Mytholog,Male,13,13,1
+310,311,Shimshamian,Alive,Alien,Shimshamian,Male,0,35,3
+311,312,Shlaammi,Alive,Alien,unknown,unknown,0,6,1
+312,313,Shleemypants,Alive,unknown,Omniscient being,Male,0,78,2
+313,314,Shmlamantha Shmlicelli,Alive,Human,unknown,Female,0,6,1
+314,315,Shmlangela Shmlobinson-Shmlower,Alive,Human,unknown,Female,0,6,1
+315,316,Shmlona Shmlobinson,Alive,Human,unknown,Female,0,6,1
+316,317,Shmlonathan Shmlower,Alive,Human,unknown,Male,0,6,1
+317,318,Shmlony Shmlicelli,Alive,Human,unknown,Male,0,6,1
+318,319,Shmooglite Runner,unknown,Alien,Animal,Male,37,37,1
+319,320,Shnoopy Bloopers,unknown,Alien,unknown,Male,0,7,1
+320,321,Shrimply Pibbles,Alive,Alien,unknown,Male,0,16,1
+321,322,Simple Rick,Dead,Human,unknown,Male,0,3,1
+322,323,Slaveowner,Dead,Human,unknown,Male,8,8,1
+323,324,Sleepy Gary,Dead,Alien,Parasite,Male,0,20,1
+324,325,Slick Morty,Dead,Human,unknown,Male,0,3,1
+325,326,Slippery Stair,Alive,Mythological Creature,Slug,Male,48,20,2
+326,327,Slow Mobius,Alive,Humanoid,unknown,Male,0,20,1
+327,328,Slow Rick,Alive,Human,unknown,Male,0,3,1
+328,329,Snuffles (Snowball),Alive,Animal,Dog,Male,1,0,8
+329,330,Solicitor Rick,unknown,Human,unknown,Male,0,3,2
+330,331,Squanchy,unknown,Alien,Cat-Person,Male,35,35,3
+331,332,Stacy,Alive,Human,unknown,Female,20,20,1
+332,333,Stair Goblin,Alive,Mythological Creature,Stair goblin,Genderless,0,48,3
+333,334,Stealy,Alive,Poopybutthole,unknown,Male,0,6,1
+334,335,Steve,Alive,Human,unknown,Male,20,20,1
+335,336,Steven Phillips,Alive,Alien,Unknown-nippled alien,Male,28,28,1
+336,337,Stu,Dead,Alien,Zigerion,Male,0,46,1
+337,338,Summer Smith,Alive,Human,unknown,Female,1,1,7
+338,339,Summer Smith,Alive,Human,unknown,Female,34,34,1
+339,340,Supernova,Alive,Human,Superhuman,Female,0,4,1
+340,341,Taddy Mason,Alive,Human,unknown,Male,20,20,1
+341,342,Taint Washer,Alive,Human,unknown,Male,8,8,1
+342,343,Tammy Guetermann,Alive,Cronenberg,unknown,Female,1,1,2
+343,344,Tammy Guetermann,Dead,Human,unknown,Female,20,105,5
+344,345,Teacher Rick,Alive,Human,unknown,Male,0,3,1
+345,346,Terry,unknown,Human,unknown,Male,20,20,1
+346,347,President Curtis,Alive,Human,unknown,Male,20,20,5
+347,348,The President of the Miniverse,Dead,Humanoid,Miniverse inhabitant,Male,49,49,1
+348,349,The Scientist Formerly Known as Rick,Dead,Human,unknown,Male,0,0,1
+349,350,Thomas Lipkip,unknown,Human,unknown,Male,20,63,1
+350,351,Three Unknown Things,Alive,Alien,unknown,unknown,0,6,1
+351,352,Tinkles,Dead,Alien,Parasite,Female,0,20,1
+352,353,Tiny Rick,Dead,Human,Clone,Male,20,20,1
+353,354,Toby Matthews,Alive,Human,unknown,Male,20,20,1
+354,355,Todd Crystal,Alive,Alien,Unknown-nippled alien,Male,28,28,1
+355,356,Tom Randolph,Alive,Human,unknown,Male,1,1,1
+356,357,Tommy's Clone,Alive,Human,Clone,Male,20,20,1
+357,358,Tophat Jones,Dead,Mythological Creature,Leprechaun,Male,0,6,3
+358,359,Tortured Morty,unknown,Human,unknown,Male,0,3,1
+359,360,Toxic Morty,Dead,Humanoid,Morty's toxic side,Male,64,20,1
+360,361,Toxic Rick,Dead,Humanoid,Rick's toxic side,Male,64,20,1
+361,362,Traflorkian,Alive,Alien,Traflorkian,unknown,0,4,5
+362,363,Trandor,Alive,Alien,Krootabulan,Male,45,20,1
+363,364,Tree Person,Dead,Humanoid,Teenyverse inhabitant,unknown,50,50,1
+364,365,Tricia Lange,Alive,Human,unknown,Female,20,20,5
+365,366,Trunk Morty,Alive,Humanoid,Trunk-Person,Male,65,3,1
+366,367,Trunk Man,Alive,Humanoid,Trunk-Person,Male,65,6,2
+367,368,Truth Tortoise,unknown,Mythological Creature,Omniscient being,Male,0,0,1
+368,369,Tusked Assassin,unknown,Alien,Tuskfish,Male,37,37,1
+369,370,Two Guys with Handlebar Mustaches,Alive,Human,unknown,Male,0,6,1
+370,371,Tumblorkian,Alive,Alien,Tumblorkian,Male,66,66,1
+371,372,Unity,Alive,Alien,Hivemind,Genderless,0,28,1
+372,373,Unmuscular Michael,Alive,Human,unknown,Male,0,6,1
+373,374,Vampire Master,Alive,Mythological Creature,Vampire,Male,20,20,1
+374,375,Vance Maximus,Dead,Human,unknown,Male,0,4,1
+375,376,Veronica Ann Bennet,Alive,Alien,Gazorpian,Female,40,40,1
+376,377,Voltematron,Dead,Alien,Parasite,unknown,0,20,1
+377,378,Wall Crawling Rick,unknown,Humanoid,Lizard-Person,Male,0,3,1
+378,379,Wedding Bartender,unknown,Alien,unknown,Male,0,35,1
+379,380,Unknown Rick,unknown,Human,unknown,Male,0,0,2
+380,381,Woman Rick,Alive,Alien,Chair,Female,0,0,1
+381,382,Worldender,Dead,Alien,unknown,Male,0,4,1
+382,383,Yaarb,Alive,Alien,unknown,Male,0,16,1
+383,384,Yellow Headed Doctor,Alive,Alien,unknown,Male,0,16,1
+384,385,Yellow Shirt Rick,unknown,Human,unknown,Male,0,3,1
+385,386,Zarbadar Gloonch,Dead,Alien,Drumbloxian,Female,0,13,2
+386,387,Zarbadar's Mytholog,unknown,Mythological Creature,Mytholog,Female,13,13,1
+387,388,Zeep Xanflorp,Alive,Humanoid,Microverse inhabitant,Male,24,24,1
+388,389,Zeta Alpha Rick,Dead,Human,unknown,Male,0,126,4
+389,390,Zick Zack,Dead,Alien,Floop Floopian,Male,0,20,1
+390,391,Uncle Steve,Dead,Alien,Parasite,Male,0,20,1
+391,392,Bearded Morty,Alive,Human,unknown,Male,0,3,2
+392,393,Roy,Alive,Human,Game,Male,32,32,1
+393,394,Davin,Dead,Cronenberg,unknown,Male,1,1,2
+394,395,Greebybobe,Alive,Alien,Greebybobe,unknown,68,4,4
+395,396,Scary Teacher,Alive,Mythological Creature,Monster,Male,18,18,1
+396,397,Fido,Alive,Animal,Dog,Male,70,70,1
+397,398,Accountant dog,Alive,Animal,Dog,Male,70,70,1
+398,399,Tiny-persons advocacy group lawyer,Alive,Mythological Creature,Giant,Male,14,14,1
+399,400,Giant Judge,Alive,Mythological Creature,Giant,Male,14,14,1
+400,401,Morty Jr's interviewer,Alive,Human,unknown,Male,20,20,1
+401,402,Guy from The Bachelor,Alive,Human,unknown,Male,20,20,1
+402,403,Corn detective,Dead,Humanoid,Corn-person,Male,6,6,1
+403,404,Michael Jackson,Alive,Humanoid,Phone-Person,Male,72,72,1
+404,405,Trunkphobic suspenders guy,Alive,Human,unknown,Male,0,20,4
+405,406,Spiderweb teddy bear,Alive,Animal,Teddy Bear,unknown,6,6,1
+406,407,Regular Tyrion Lannister,Alive,Human,unknown,Male,6,6,1
+407,408,Quick Mystery Presenter,Alive,Human,unknown,Male,6,6,1
+408,409,Mr. Sneezy,Alive,Human,Little Human,Male,6,6,1
+409,410,Two Brothers,Alive,Human,unknown,Male,6,6,1
+410,411,Alien Mexican Armada,unknown,Alien,Mexican,Male,6,6,1
+411,412,Giant Cat Monster,unknown,Animal,Giant Cat Monster,unknown,6,6,1
+412,413,Old Women,unknown,Human,Old Amazons,Female,6,6,1
+413,414,Trunkphobic guy,Alive,Human,unknown,Male,6,6,1
+414,415,Pro trunk people marriage guy,Alive,Human,unknown,Male,6,6,1
+415,416,Muscular Mannie,Alive,Human,Mannie,Male,6,6,1
+416,417,Baby Legs Chief,Alive,Human,unknown,Male,6,6,1
+417,418,Mrs. Sullivan's Boyfriend,Alive,Human,Necrophiliac,Male,6,6,1
+418,419,Plutonian Hostess,Alive,Alien,Plutonian,Female,47,47,1
+419,420,Plutonian Host,Alive,Alien,Plutonian,Male,47,47,1
+420,421,Rich Plutonian,Alive,Alien,Plutonian,Female,47,47,1
+421,422,Rich Plutonian,Alive,Alien,Plutonian,Male,47,47,1
+422,423,Synthetic Laser Eels,Alive,Animal,Eel,unknown,20,20,1
+423,424,Pizza-person,Alive,Humanoid,Pizza,Male,71,71,1
+424,425,Greasy Grandma,Alive,Human,Grandma,Female,73,73,1
+425,426,Phone-person,Alive,Humanoid,Phone,Male,72,72,1
+426,427,Chair-person,Alive,Humanoid,Chair,Male,74,74,1
+427,428,Chair-homeless,Alive,Humanoid,Chair,Male,74,74,1
+428,429,Chair-waiter,Alive,Humanoid,Chair,Male,74,74,1
+429,430,Doopidoo,Alive,Animal,Doopidoo,unknown,0,0,1
+430,431,Super Weird Rick,unknown,Human,unknown,Male,0,0,1
+431,432,Pripudlian,Alive,Alien,Pripudlian,unknown,0,20,4
+432,433,Giant Testicle Monster,Alive,Alien,unknown,unknown,21,21,2
+433,434,Michael,Alive,Human,unknown,Male,20,20,1
+434,435,Michael's Lawyer,Alive,Human,unknown,Male,20,20,1
+435,436,Veterinary,Alive,Human,unknown,Female,20,20,1
+436,437,Veterinary Nurse,Alive,Human,unknown,Male,20,20,1
+437,438,Bearded Jerry,Alive,Human,unknown,Male,0,44,1
+438,439,Shaved Head Jerry,Alive,Human,unknown,Male,0,44,1
+439,440,Tank Top Jerry,Alive,Human,unknown,Male,0,44,1
+440,441,Pink Polo Shirt Jerry,Alive,Human,unknown,Male,0,44,1
+441,442,Jerryboree Keeper,Alive,Alien,unknown,Female,0,44,1
+442,443,Jerryboree Receptionist,Alive,Alien,unknown,Male,0,44,1
+443,444,Anchor Gear,Alive,Alien,Gear-Person,Male,57,57,1
+444,445,Gear Cop,Dead,Alien,Gear-Person,Male,57,57,1
+445,446,Roy's Mum,Alive,Human,Game,Female,32,32,1
+446,447,Roy's Wife,Alive,Human,Game,Male,32,32,1
+447,448,Roy's Son,Alive,Human,Game,Male,32,32,1
+448,449,Simon,Alive,Human,unknown,Male,20,20,1
+449,450,Vampire Master's Assistant,Alive,Mythological Creature,Vampire,Male,0,20,1
+450,451,Arbolian Mentirososian,Alive,Alien,unknown,unknown,75,16,3
+451,452,St. Gloopy Noops Nurse,Alive,Alien,unknown,Female,0,16,1
+452,453,Nano Doctor,Alive,Alien,Nano Alien,Male,0,16,1
+453,454,Funny Songs Presenter,Alive,Human,unknown,Male,0,6,1
+454,455,Tax Attorney,unknown,Human,unknown,Male,0,6,1
+455,456,Butthole Ice Cream Guy,Alive,Alien,unknown,Male,0,6,1
+456,457,Traflorkian Journalist,Alive,Alien,Traflorkian,Male,0,16,1
+457,458,Communication's Responsible Rick,Dead,Human,unknown,Male,0,3,1
+458,459,Teleportation's Responsible Rick,unknown,Human,unknown,Male,0,3,1
+459,460,SEAL Team Rick,Dead,Human,unknown,Male,0,3,1
+460,461,Morphizer-XE Customer Support,Alive,Alien,unknown,Male,0,20,1
+461,462,Morphizer-XE Customer Support,unknown,Alien,unknown,Male,0,20,1
+462,463,Alien Spa Employee,Alive,Alien,unknown,Male,0,76,1
+463,464,Little Voltron,Alive,Robot,unknown,Genderless,0,20,1
+464,465,Baby Rick,Alive,Human,Clone,Male,3,3,1
+465,466,Bartender Morty,Alive,Human,unknown,Male,0,3,1
+466,467,Dancer Cowboy Morty,Alive,Human,unknown,Male,0,3,1
+467,468,Dancer Morty,Alive,Human,unknown,Male,0,3,1
+468,469,Flower Morty,Alive,Human,Human with a flower in his head,Male,0,3,1
+469,470,Hairdresser Rick,Alive,Human,unknown,Male,0,3,1
+470,471,Journalist Rick,Alive,Human,unknown,Male,0,3,1
+471,472,Private Sector Rick,Dead,Human,unknown,Male,0,3,1
+472,473,Purple Morty,Alive,Alien,unknown,Male,0,3,1
+473,474,Retired General Rick,unknown,Human,unknown,Male,0,3,1
+474,475,Secret Service Rick,Alive,Human,unknown,Male,0,3,1
+475,476,Steve Jobs Rick,Alive,Human,unknown,Male,0,3,1
+476,477,Sheik Rick,Dead,Human,unknown,Male,0,3,1
+477,478,Modern Rick,Alive,Human,unknown,Male,0,3,1
+478,479,Tan Rick,Dead,Human,unknown,Male,0,3,1
+479,480,Visor Rick,Dead,Human,unknown,Male,0,3,1
+480,481,Colonial Rick,Dead,Human,unknown,Male,0,3,1
+481,482,P-Coat Rick,Dead,Human,unknown,Male,0,3,1
+482,483,Chang,Alive,Human,unknown,Male,0,25,1
+483,484,Dr. Eleanor Arroway,Alive,Human,unknown,Female,0,25,1
+484,485,Varrix,Alive,Alien,unknown,unknown,0,20,1
+485,486,Secretary of the Interior,Alive,Human,unknown,Male,20,20,1
+486,487,Crystal Poacher,Dead,Alien,unknown,Male,0,79,1
+487,488,Hologram Rick,Dead,Humanoid,Hologram,Male,20,20,1
+488,489,Fascist Rick,Dead,Human,unknown,Male,77,77,1
+489,490,Fascist Morty,Dead,Human,unknown,Male,77,77,1
+490,491,Fascist Mr. President,Alive,Human,unknown,Male,77,77,1
+491,492,Fascist Rick’s Clone,Dead,Human,Clone,Male,77,77,1
+492,493,Revolio Clockberg Jr.,Dead,Alien,Gear-Person,Male,77,77,1
+493,494,Fascist Shrimp Rick,Alive,Animal,Shrimp,Male,80,80,1
+494,495,Fascist Shrimp Rick’s Clone,Dead,Animal,Shrimp,Male,80,80,1
+495,496,Fascist Shrimp Morty,Alive,Animal,Shrimp,Male,80,80,1
+496,497,Fascist Shrimp SS,Alive,Animal,Shrimp,Male,80,80,1
+497,498,Fascist Teddy Bear Rick,Alive,Animal,Teddy Bear,Male,81,81,1
+498,499,Fascist Teddy Bear Rick’s Clone,Dead,Animal,Teddy Bear,Male,81,81,1
+499,500,Bully,unknown,Human,unknown,Male,20,20,1
+500,501,Anchorman,Alive,Human,unknown,Male,20,20,1
+501,502,Anchorwoman,Alive,Human,unknown,Female,20,20,1
+502,503,Morty’s Lawyer,Alive,Human,unknown,Male,20,20,1
+503,504,Judge,Dead,Human,unknown,Female,20,20,1
+504,505,Public Opinion Judge,Alive,Human,unknown,Female,20,20,1
+505,506,Caterpillar Mr. Goldenfold,Dead,Animal,Caterpillar,Male,82,82,1
+506,507,Wasp Rick,Alive,Animal,Wasp,Male,82,20,1
+507,508,Wasp Rick’s Clone,unknown,Animal,Wasp,Male,82,20,1
+508,509,Wasp Morty,Alive,Animal,Wasp,Male,82,82,1
+509,510,Wasp Summer,Alive,Animal,Wasp,Female,82,82,1
+510,511,Wasp Jerry,Alive,Animal,Wasp,Male,82,82,1
+511,512,Wasp Beth,Alive,Animal,Wasp,Female,82,82,1
+512,513,Caterpillar Mr. Goldenfold’s Larvae,Dead,Animal,Caterpillar,unknown,82,82,1
+513,514,Boglin,unknown,unknown,Toy,unknown,20,20,1
+514,515,Kirkland Brand Mr. Meeseeks,unknown,Humanoid,Meeseeks,Male,53,20,1
+515,516,Glootie,Alive,Alien,Monogatron,Male,0,83,1
+516,517,Danny Publitz,Alive,Human,unknown,Male,20,20,1
+517,518,Mothership Intern,Alive,Alien,Monogatron,Male,0,83,1
+518,519,Monogatron Leader,Alive,Alien,Monogatron,Male,0,83,1
+519,520,Lizard,Dead,Alien,Lizard,Male,85,85,1
+520,521,Deliverance,Dead,Robot,unknown,Genderless,85,85,1
+521,522,Tony,Dead,Alien,unknown,Male,0,86,1
+522,523,Tony’s Wife,Dead,Alien,unknown,Female,87,87,1
+523,524,Monogatron Queen,Alive,Alien,Monogatron,Female,0,83,1
+524,525,Tony's Dad,Alive,Alien,unknown,Male,0,20,1
+525,526,Jeff,Alive,Human,unknown,Male,20,20,1
+526,527,Josiah,Alive,Human,unknown,Male,20,20,1
+527,528,Maggie,Alive,Human,unknown,Female,20,20,1
+528,529,Priest Witherspoon,Alive,Human,unknown,Male,20,20,1
+529,530,Richard,Alive,Human,unknown,Male,20,20,1
+530,531,Running Bird,Alive,Human,unknown,Male,20,20,1
+531,532,Secretary at Tony's,Alive,Alien,unknown,Female,0,20,1
+532,533,Mountain Sweat Jerry,Alive,Human,unknown,Male,87,87,1
+533,534,Vermigurber,Alive,Alien,Fly,Male,0,84,1
+534,535,Miles Knightly,Dead,Alien,unknown,Male,0,88,1
+535,536,Heist-Con Receptionist,Alive,Alien,unknown,Female,0,88,1
+536,537,Angie Flint,Alive,Human,Cyborg,Female,0,88,1
+537,538,Glar,Alive,Alien,unknown,Male,0,88,1
+538,539,Truckula,Alive,Mythological Creature,Vampire,Male,0,88,1
+539,540,Snake Arms,Alive,Alien,unknown,Male,0,88,1
+540,541,Double Microwawe,Alive,Humanoid,Cyborg,Male,0,88,1
+541,542,Monitor Lord,Alive,Alien,unknown,Male,0,88,1
+542,543,Key Catcher,Alive,Alien,unknown,Female,0,88,1
+543,544,The Shapeshiftress,Alive,Alien,Shapeshifter,Female,0,88,1
+544,545,Heistotron,Dead,Robot,unknown,Genderless,20,89,1
+545,546,Randotron,Dead,Robot,unknown,Genderless,20,89,1
+546,547,Hephaestus,Alive,Mythological Creature,God,Male,90,89,1
+547,548,Ventriloquiver,Alive,Humanoid,Dummy,Female,91,89,1
+548,549,Elon Tusk,Alive,Human,Human with tusks,Male,92,89,1
+549,550,Gramuflackian Anchorman,Dead,Alien,Gramuflackian,Male,93,93,1
+550,551,Gramuflackian General,Dead,Alien,Gramuflackian,Male,93,93,1
+551,552,Netflix Executive,Alive,Human,unknown,Male,20,20,1
+552,553,Balthromaw,Alive,Mythological Creature,Dragon,Male,94,20,1
+553,554,The Wizard,Dead,Human,unknown,Male,94,94,1
+554,555,Talking Cat,Alive,Animal,unknown,Male,0,20,1
+555,556,Debrah,Alive,Mythological Creature,Dragon,Male,94,94,1
+556,557,Debrah’s Partner,Alive,Mythological Creature,Dragon,Male,94,94,1
+557,558,Michael,Alive,Mythological Creature,Dragon,Male,94,94,1
+558,559,Slut Dragon,Alive,Mythological Creature,Dragon,Male,94,94,1
+559,560,Shadow Jacker,Alive,Mythological Creature,Dragon,Male,94,94,1
+560,561,Chachi,Dead,Alien,unknown,Male,0,20,1
+561,562,Slippy,Alive,Animal,Snake,Female,20,78,1
+562,563,Robot Snake,unknown,Robot,Snake,Genderless,78,78,1
+563,564,Snake Hitler,Dead,Animal,Snake,Male,78,78,1
+564,565,Snake Lincoln,Dead,Animal,Snake,Male,78,78,1
+565,566,Snake Resistance Robot,Dead,Robot,Human-Snake hybrid,Genderless,78,20,1
+566,567,Snake Linguist,unknown,Animal,Snake,Male,78,78,1
+567,568,Snake Terminator,unknown,Robot,Snake,Male,78,78,1
+568,569,Snake Soldier,Alive,Animal,Snake,Male,78,78,1
+569,570,Snake with Legs,Alive,Animal,Snake,Male,78,78,1
+570,571,Secret Service Snake,Alive,Animal,Snake,Male,78,78,1
+571,572,Anchosnake,Alive,Animal,Snake,Male,78,78,1
+572,573,Anchosnake,Alive,Animal,Snake,Female,78,78,1
+573,574,80's snake,unknown,Animal,Snake,Male,78,78,1
+574,575,Bar Customer,Alive,Human,unknown,Male,20,20,1
+575,576,Bartender,Alive,Human,unknown,Female,20,20,1
+576,577,PC Basketball Player,Alive,Human,unknown,Male,20,20,1
+577,578,Cavesnake,Dead,Animal,Snake,Male,78,78,1
+578,579,Pet Shop Employee,Alive,Human,unknown,Male,20,20,1
+579,580,Snake Reporter,Alive,Animal,Snake,Male,78,78,1
+580,581,High Pilot,unknown,Human,unknown,Male,20,20,1
+581,582,Phoenixperson,Dead,Alien,Cyborg,Male,15,20,3
+582,583,Tickets Please Guy,Dead,Human,Soulless Puppet,Male,96,97,1
+583,584,Floaty Bloody Man,Dead,Human,Half Soulless Puppet,Male,98,98,1
+584,585,Floaty Non-Gasm Brotherhood Member,Dead,Alien,Soulless Puppet,Male,98,98,1
+585,586,Floaty Non-Gasm Brotherhood Member Friend,Dead,Alien,Soulless Puppet,Female,98,98,1
+586,587,Abradolf Lincler,Alive,Human,Soulless Puppet,Male,96,96,1
+587,588,Biblesaurus,Alive,Animal,Soulless Puppet,Male,96,96,1
+588,589,Birdperson,Alive,Alien,Soulless Puppet,Male,96,96,1
+589,590,Cats Fan,Alive,Alien,Soulless Puppet,Female,96,96,1
+590,591,Christmas Storyteller,Alive,Alien,Soulless Puppet,Male,96,96,1
+591,592,Cookies Guy,Alive,Human,Soulless Puppet,Male,99,99,1
+592,593,Crossy,Alive,unknown,Soulless Puppet,Genderless,100,100,1
+593,594,Female Scorpion,Dead,Animal,Soulless Puppet,Female,99,99,1
+594,595,Floaty Bloody Man’s Daughter,Dead,Human,Soulless Puppet,Female,98,98,1
+595,596,Goomby,Alive,Alien,Soulless Puppet,Male,96,96,1
+596,597,Hairspray Fan,Alive,Alien,Soulless Puppet,Female,96,96,1
+597,598,Jesus Christ,Alive,Human,Soulless Puppet,Male,100,100,1
+598,599,Josh,Dead,Human,Soulless Puppet,Male,98,98,1
+599,600,Josh's Sister,Dead,Human,Soulless Puppet,Female,98,98,1
+600,601,Leah,Alive,unknown,Soulless Puppet,Female,96,96,1
+601,602,Marcus,Alive,Human,Soulless Puppet,Male,96,96,1
+602,603,Mike Johnson,Alive,Human,Soulless Puppet,Male,99,99,1
+603,604,Mr. Celery & Friends,Alive,unknown,Soulless Puppet,Genderless,100,100,1
+604,605,Musical Fan,Alive,Alien,Soulless Puppet,Male,96,96,1
+605,606,Phantom of the Opera Fan,Alive,Alien,Soulless Puppet,Male,96,96,1
+606,607,Phoenixperson,Alive,Alien,Soulless Puppet,Male,96,96,1
+607,608,Private Smith,unknown,Human,Soulless Puppet,Male,96,96,1
+608,609,Professor Sanchez,Dead,Human,Soulless Puppet,Male,96,96,1
+609,610,Ramamama Lord,Alive,Human,Soulless Puppet,Male,96,96,1
+610,611,Ruth Bader Ginsburg,Alive,Human,Soulless Puppet,Female,99,99,1
+611,612,Sarge,Alive,Human,Soulless Puppet,Male,96,96,1
+612,613,Shrek The Musical Fan,Alive,Alien,Soulless Puppet,Male,96,96,1
+613,614,Snuffles,Alive,Animal,Soulless Puppet,Male,96,96,1
+614,615,Storylord,Alive,Human,Soulless Puppet,Male,96,100,1
+615,616,Tammy Guetermann,Alive,Human,Soulless Puppet,Female,96,96,1
+616,617,The Concept of Time,Alive,unknown,Soulless Puppet,Genderless,96,96,1
+617,618,Beth Smith,Alive,Human,Soulless Puppet,Female,99,99,1
+618,619,Summer Smith,Alive,Human,Soulless Puppet,Female,99,99,1
+619,620,Morty Smith,Alive,Human,Soulless Puppet,Male,96,96,1
+620,621,Rick Sanchez,Alive,Human,Soulless Puppet,Male,96,96,1
+621,622,Train Cop,Dead,Human,Soulless Puppet,Male,96,96,1
+622,623,Train Cops,Alive,Human,Soulless Puppet,Female,96,96,1
+623,624,Train Cops Instructor,Dead,Human,Soulless Puppet,Male,96,96,1
+624,625,Darth Poopybutthole,Alive,Poopybutthole,Soulless Puppet,Male,100,100,1
+625,626,Evil Morty,Alive,Human,Soulless Puppet,Male,100,100,1
+626,627,Morty’s Disguise,Alive,Human,Soulless Puppet,Female,96,96,1
+627,628,Rick’s Disguise,Alive,Human,Soulless Puppet,Male,96,96,1
+628,629,Uncle Nibbles,Dead,Alien,Soulless Puppet,Male,98,98,1
+629,630,Angry Glorzo,Dead,Alien,Glorzo,Male,101,101,1
+630,631,Bruce,Dead,Alien,Glorzo,Male,101,101,1
+631,632,Council of Glorzos Member,Dead,Alien,Glorzo,Male,101,101,1
+632,633,Old Glorzo,Dead,Alien,Glorzo,Male,101,101,1
+633,634,Shane,unknown,Alien,Glorzo,Male,101,101,1
+634,635,Steve,Dead,Alien,Glorzo,Male,101,101,1
+635,636,Troy,Dead,Alien,Glorzo,Male,101,101,1
+636,637,Crystal Dealers Boss,Dead,Alien,unknown,Male,0,102,1
+637,638,Crystal Dealer,Dead,Alien,unknown,Male,0,102,1
+638,639,SWAT Officer,Dead,Human,unknown,Male,103,103,1
+639,640,Plane Crash Survivor,unknown,Human,unknown,Female,104,104,1
+640,641,Plane Crash Survivor,unknown,Human,unknown,Male,104,104,1
+641,642,Heroine Keith,Alive,Human,unknown,Male,104,103,1
+642,643,Impervious to Acid SWAT Officer,Dead,Human,unknown,Male,103,103,1
+643,644,Johnny Carson,Alive,Human,unknown,Male,103,103,1
+644,645,Sonia Sotomayor,Alive,Human,unknown,Female,103,103,1
+645,646,Morty’s Father-in-law,Alive,Human,unknown,Male,104,104,1
+646,647,Morty’s Mother-in-law,Alive,Human,unknown,Female,104,104,1
+647,648,Morty’s Girlfriend,Alive,Human,unknown,Female,104,103,1
+648,649,Gaia,Alive,unknown,Planet,Female,106,106,1
+649,650,Reggie,Dead,Mythological Creature,Zeus,Male,90,106,1
+650,651,Ticktock,unknown,Humanoid,Clay-Person,Genderless,106,106,1
+651,652,Florflock,Alive,Humanoid,Clay-Person,Genderless,106,106,1
+652,653,Squeeb,Alive,Humanoid,Clay-Person,Genderless,106,106,1
+653,654,Defiance Beth,Alive,Human,Clone,Female,20,20,2
+654,655,Defiance Squanchette,Alive,Alien,Cat-Person,Female,35,107,1
+655,656,Defiance Doctor,Alive,Alien,unknown,Male,0,108,1
+656,657,New Improved Galactic Federation Guard,Dead,Alien,Gromflomite,Male,19,105,1
+657,658,Mr. Nimbus,Alive,Mythological Creature,Sexy Aquaman,Male,109,20,1
+658,659,Hoovy,Dead,Humanoid,Narnian,Male,110,110,1
+659,660,Bova,Dead,Humanoid,Narnian,Female,110,110,1
+660,661,Japheth,Dead,Humanoid,Narnian,Male,110,110,1
+661,662,Japheth's Middle Son,Dead,Humanoid,Narnian,Male,110,110,1
+662,663,Japheth's Eldest Son,Dead,Humanoid,Narnian,Male,110,110,1
+663,664,Japheth's Youngest Son,Dead,Humanoid,Narnian,Male,110,110,1
+664,665,Japheth's Grandson,Dead,Humanoid,Narnian,Male,110,110,1
+665,666,Adam,Dead,Humanoid,Narnian,Male,110,20,1
+666,667,Adam's Mother,Dead,Humanoid,Narnian,Female,110,110,1
+667,668,Warlock,Dead,Humanoid,Narnian,Male,110,110,1
+668,669,Evolved Narnian,Alive,Humanoid,Narnian,Male,110,110,1
+669,670,Mr. Nimbus Secretary,Alive,Animal,Starfish,Female,109,20,1
+670,671,Evolved Narnian Disguised as Morty,Alive,Humanoid,Narnian,Male,110,110,1
+671,672,Mr. Nimbus' Squid,Dead,Animal,Squid,Male,109,20,1
+672,673,Scarecrow Rick,Dead,Robot,Decoy,Male,20,20,1
+673,674,Scarecrow Summer,Dead,Robot,Decoy,Female,20,20,1
+674,675,Scarecrow Jerry,Dead,Robot,Decoy,Male,20,20,1
+675,676,Scarecrow Morty,Dead,Robot,Decoy,Male,20,20,1
+676,677,Scarecrow Beth,Dead,Robot,Decoy,Female,20,20,1
+677,678,Glockenspiel Jerry,Alive,Robot,Decoy,Male,20,20,1
+678,679,Glockenspiel Beth,Dead,Robot,Decoy,Female,20,20,1
+679,680,Glockenspiel Rick,Dead,Robot,Decoy,Male,20,20,1
+680,681,Glockenspiel Summer,Dead,Robot,Decoy,Female,20,20,1
+681,682,Glockenspiel Morty,Dead,Robot,Decoy,Male,20,20,1
+682,683,Wicker Beth,Dead,Robot,Decoy,Female,20,20,1
+683,684,Wicker Rick,Dead,Robot,Decoy,Male,20,20,1
+684,685,Wicker Morty,Dead,Robot,Decoy,Male,20,20,1
+685,686,Wicker Summer,Dead,Robot,Decoy,Female,20,20,1
+686,687,Metal Rick,Dead,Robot,Decoy,Male,20,20,1
+687,688,Gun Brain Rick,Dead,Robot,Decoy,Male,20,20,1
+688,689,Mr. Always Wants to be Hunted,Alive,Poopybutthole,unknown,Male,0,20,1
+689,690,Squid Costume Beth,Dead,Robot,Decoy,Female,20,20,1
+690,691,Squid Costume Jerry,Dead,Robot,Decoy,Male,20,20,1
+691,692,Squid Costume Morty,Dead,Robot,Decoy,Male,20,20,1
+692,693,Squid Costume Rick,Dead,Robot,Decoy,Male,20,20,1
+693,694,Squid Costume Summer,Dead,Robot,Decoy,Female,20,20,1
+694,695,Dracula,Alive,Mythological Creature,Vampire,Male,6,6,1
+695,696,When Wolf,Alive,Mythological Creature,Whenwolf,Male,6,6,1
+696,697,Too Cute to Murder Beth,Dead,Robot,Decoy,Female,20,20,1
+697,698,Too Cute to Murder Rick,Dead,Robot,Decoy,Male,20,20,1
+698,699,Too Cute to Murder Jerry,Dead,Robot,Decoy,Male,20,20,1
+699,700,Too Cute to Murder Morty,Dead,Robot,Decoy,Male,20,20,1
+700,701,Too Cute to Murder Summer,Dead,Robot,Decoy,Female,20,20,1
+701,702,Planetina,Alive,Humanoid,Summon,Female,111,20,1
+702,703,Daphne,Alive,Alien,Morglutzian,Female,112,113,1
+703,704,Diesel Weasel,Alive,Animal,Weasel,Male,20,20,1
+704,705,Eddie,Dead,Human,unknown,Male,20,20,1
+705,706,Xing Ho,Dead,Human,unknown,Female,20,20,1
+706,707,Air Tina-Teer,Dead,Human,unknown,Female,20,20,1
+707,708,Water Tina-Teer,Dead,Human,unknown,Male,20,20,1
+708,709,Planetina Buyer,Dead,Human,unknown,Male,20,20,1
+709,710,Tony Galopagus,Alive,Human,unknown,Male,20,20,1
+710,711,Sticky,Alive,unknown,Super Sperm Monster,Male,114,20,1
+711,712,Professor Shabooboo,Dead,Human,unknown,Male,20,20,1
+712,713,Sperm Queen,Dead,unknown,Super Sperm Monster,Female,114,20,1
+713,714,CHUD King,Alive,Animal,CHUD,Male,20,20,1
+714,715,Princess Ponietta,Alive,Animal,CHUD,Female,20,20,1
+715,716,Naruto Smith,Alive,Humanoid,Giant Incest Baby,Male,20,115,2
+716,717,Blazen,Dead,Human,unknown,Male,20,20,1
+717,718,Kathy Ireland,Alive,Human,unknown,Female,20,20,1
+718,719,Amazing Johnathan,Alive,Human,unknown,Male,20,20,1
+719,720,Foal Sanchez,Alive,Humanoid,CHUD Human Mix,unknown,20,20,1
+720,721,Spaceman,Dead,Human,unknown,Male,20,115,1
+721,722,Cirque du Soleil Zumanity Member,Alive,Human,unknown,Female,104,20,1
+722,723,Cirque du Soleil Zumanity Member,Alive,Human,unknown,Male,20,20,1
+723,724,Cirque du Soleil Zumanity Member,Alive,Human,unknown,Female,20,20,1
+724,725,Cirque du Soleil Zumanity Member,Dead,Human,unknown,Female,20,20,1
+725,726,Bruce Chutback,Alive,Human,unknown,Male,20,20,1
+726,727,Alyson Hannigan,Dead,Alien,unknown,Female,0,117,1
+727,728,Cenobite,unknown,Mythological Creature,Demon,Male,116,116,1
+728,729,Cenobite,unknown,Mythological Creature,Demon,Female,116,116,1
+729,730,Coat Rack Head,unknown,Mythological Creature,Demon,Male,116,116,1
+730,731,Mousetrap Nipples,unknown,Mythological Creature,Demon,Male,116,116,1
+731,732,Changeformer,Dead,Robot,Changeformer,Male,118,118,1
+732,733,Space Cruiser,Alive,Robot,Artificial Intelligence,Female,20,20,2
+733,734,Coop,Alive,Human,unknown,Male,20,20,1
+734,735,Dwayne,Alive,Human,unknown,Male,20,20,1
+735,736,Franklin D. Roosevelt,Dead,Humanoid,Guinea Pig for the Polio Vaccine,Male,20,20,1
+736,737,President's General,Alive,Human,unknown,Male,20,20,2
+737,738,Giant Assassin Hidden in the Statue of Liberty,Alive,Robot,unknown,Female,119,20,1
+738,739,Turkey Morty,Alive,Animal,Turkey,Male,20,20,1
+739,740,Turkey Rick,Alive,Animal,Turkey,Male,20,20,1
+740,741,Turkey President Curtis,Alive,Animal,Turkey,Male,20,20,1
+741,742,Martínez,Dead,Animal,Turkey,Male,20,20,1
+742,743,Marvin,Alive,Human,unknown,Male,20,20,1
+743,744,Jackey,Alive,Human,unknown,Male,20,20,1
+744,745,Native Alien,Alive,Alien,unknown,Male,0,20,1
+745,746,Pilgrim Alien,Alive,Alien,unknown,Male,0,20,1
+746,747,President Turkey,Dead,Humanoid,Turkey Human Mix,Male,20,20,1
+747,748,Mary-Lou,Alive,Human,unknown,Female,20,20,1
+748,749,Big Fat rick,unknown,Human,unknown,Male,0,20,1
+749,750,Hothead Rick,Dead,Human,unknown,Male,0,20,1
+750,751,Ricardo Montoya,unknown,Human,unknown,Male,0,20,1
+751,752,Wrap-it-up Little Rick,Dead,Human,unknown,Male,0,20,1
+752,753,Yo-yo Rick,unknown,Human,unknown,Male,0,20,1
+753,754,Voiceoverian,Dead,Alien,Parasite,unknown,0,20,1
+754,755,Gotron Pilot,Dead,Human,Anime,Male,0,20,1
+755,756,Young Memory Rick,Alive,Human,Memory,Male,120,126,1
+756,757,Memory Tammy,Dead,Human,Memory,Female,120,120,1
+757,758,Rick's Garage,Alive,Robot,Artificial Intelligence,Female,20,20,1
+758,759,Memory Squanchy,Dead,Alien,Memory,Male,120,120,1
+759,760,Memory Rick,Dead,Human,Memory,Male,120,120,1
+760,761,Memory Geardude,Dead,Alien,Memory,Male,120,120,1
+761,762,Birdperson & Tammy's Child,Alive,Humanoid,Bird-Person Human Mix,Female,20,20,1
+762,763,Two Crows,Alive,Animal,Crow,unknown,20,125,2
+763,764,Mr. Cookie President,Alive,Alien,Cookie,Male,0,20,1
+764,765,Nick,Dead,Human,unknown,Male,20,20,1
+765,766,Harold (Garbage Goober),Alive,Alien,unknown,Male,0,20,1
+766,767,Harold's Wife,Alive,Alien,unknown,Female,0,20,1
+767,768,Alien Crow,Dead,Alien,Crow,Male,122,122,1
+768,769,Alien Crow,Dead,Alien,Crow,Female,122,122,1
+769,770,Samansky,Dead,Alien,Normal Size Bug,Male,123,20,1
+770,771,Palicki,Alive,Alien,Normal Size Bug,Male,123,123,1
+771,772,Sarge,Alive,Alien,Normal Size Bug,Male,123,123,1
+772,773,Slartivartian,Dead,Alien,Slartivartian,Male,124,124,1
+773,774,Ferkusian,Alive,Alien,Ferkusian,Male,113,113,1
+774,775,Morglutzian,Dead,Alien,Morglutzian,Male,112,112,1
+775,776,Super Turkey,Dead,Humanoid,Turkey Human Mix,Male,20,20,1
+776,777,7+7 Years Old Morty,unknown,Human,unknown,Male,3,3,1
+777,778,26 Years Old Morty,Dead,Human,unknown,Male,3,3,1
+778,779,40 Years Old Morty,unknown,Human,unknown,Male,3,3,1
+779,780,Andy,unknown,Human,Mascot,Male,0,3,1
+780,781,Baby Mouse Skin Morty,Alive,Human,unknown,Male,3,3,1
+781,782,Metaphor for Capitalism,Dead,Humanoid,unknown,Male,3,3,1
+782,783,Beth Sanchez,Dead,Human,unknown,Female,1,126,1
+783,784,Crow Scare,Alive,Humanoid,Scarecrow,Male,125,125,1
+784,785,Pussifer,Dead,Animal,Tiger,Male,125,125,1
+785,786,Stan Lee Rick,unknown,Human,unknown,Male,0,3,1
+786,787,Re-Build-a-Morty Morty,unknown,Human,unknown,Male,0,3,1
+787,788,Deformed Morty,Dead,Humanoid,unknown,Male,3,3,1
+788,789,Crow Horse,Alive,Robot,Crow Horse,unknown,125,20,1
+789,790,Bald Rick,Dead,Human,unknown,Male,0,126,1
+790,791,Punk Rick,Dead,Human,unknown,Male,0,126,1
+791,792,Party Rick,Dead,Human,unknown,Male,0,126,1
+792,793,Scar Rick,Dead,Human,unknown,Male,0,126,1
+793,794,Long Hair Rick,unknown,Human,unknown,Male,0,3,1
+794,795,Redhead Rick,Dead,Human,unknown,Male,0,3,1
+795,796,Redhead Morty,Dead,Human,unknown,Male,0,3,1
+796,797,Gotron,unknown,Robot,Ferret Robot,Genderless,20,20,1
+797,798,Young Jerry,unknown,Human,unknown,Male,30,30,1
+798,799,Young Beth,unknown,Human,unknown,Female,30,30,1
+799,800,Butter Robot,Alive,Robot,Passing Butter Robot,Genderless,20,20,1
