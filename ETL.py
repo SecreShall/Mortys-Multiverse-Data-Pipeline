@@ -93,5 +93,13 @@ def transform():
     df_location.to_csv('Data/transformed_location_data.csv')
     clean_character.to_csv('Data/transformed_character_data.csv')
 
-exctract()
-transform()
+def load():
+    pass
+
+def main():
+    exctract()
+    transform()
+    load()
+
+if __name__ == "__main__":
+    main()
