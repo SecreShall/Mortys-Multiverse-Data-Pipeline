@@ -1,4 +1,4 @@
-,id,name,status,species,type,gender,origin,location,episode
+,id,name,status,species,type,gender,origin,location,episode_count
 0,1,Rick Sanchez,Alive,Human,,Male,https://rickandmortyapi.com/api/location/1,https://rickandmortyapi.com/api/location/3,51
 1,2,Morty Smith,Alive,Human,,Male,,https://rickandmortyapi.com/api/location/3,51
 2,3,Summer Smith,Alive,Human,,Female,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,42
