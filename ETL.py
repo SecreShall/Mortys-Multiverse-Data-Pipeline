@@ -2,7 +2,6 @@ import requests
 import pandas as pd
 
 def exctract():
-
     # Extract all location data
     print(f"Extracting Location Data")
     df_location = pd.DataFrame()
