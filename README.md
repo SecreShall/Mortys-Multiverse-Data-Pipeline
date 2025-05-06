@@ -35,9 +35,9 @@ CREATE TABLE characters (
     species VARCHAR(100),
     type VARCHAR(100),
     gender VARCHAR(50),
-    episode_count INT,
     origin_id INT,
     location_id INT,
+    episode_count INT,
     FOREIGN KEY (origin_id) REFERENCES locations(id),
     FOREIGN KEY (location_id) REFERENCES locations(id)
 );
