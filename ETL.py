@@ -7,12 +7,8 @@ def exctract():
     print(f"Extracting Location Data")
     df_location = pd.DataFrame()
     for index in range(1,127):
-
-    
         url = f"https://rickandmortyapi.com/api/location/?page={index}"
-
         raw_data = requests.get(url)
-
         data = raw_data.json()
 
         if 'results' in data:
@@ -36,7 +32,6 @@ def exctract():
     df_location.to_csv("Data/extracted_location_data.csv")
     print(f"Saved Location Data to CSV")
 
-
     # Extract all character data
     print(f"Extracting Character Data")
     df_character = pd.DataFrame()
@@ -44,9 +39,7 @@ def exctract():
     for index in range(1, 827):
 
         url = f"https://rickandmortyapi.com/api/character/?page={index}"
-
         raw_data = requests.get(url)
-
         data = raw_data.json()
 
         if 'results' in data:
@@ -72,9 +65,6 @@ def exctract():
     df_character.to_csv("Data/extracted_character_data.csv")
     print(f"Saved Character Data to CSV")
 
-
-
-
 def transform():
     # Location -----------------------------------------------------
     # Read location data
@@ -84,7 +74,6 @@ def transform():
     df_location['type'] = df_location['type'].fillna('unknown')
     df_location['dimension'] = df_location['dimension'].fillna('unknown')
     df_location = df_location.drop(columns=['Unnamed: 0'])
-
 
     # Character ---------------------------------------------------
     # Read character data
