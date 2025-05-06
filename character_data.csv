@@ -1,0 +1,827 @@
+,id,name,status,species,type,gender,origin,location,episode
+0,1,Rick Sanchez,Alive,Human,,Male,https://rickandmortyapi.com/api/location/1,https://rickandmortyapi.com/api/location/3,51
+1,2,Morty Smith,Alive,Human,,Male,,https://rickandmortyapi.com/api/location/3,51
+2,3,Summer Smith,Alive,Human,,Female,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,42
+3,4,Beth Smith,Alive,Human,,Female,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,42
+4,5,Jerry Smith,Alive,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,39
+5,6,Abadango Cluster Princess,Alive,Alien,,Female,https://rickandmortyapi.com/api/location/2,https://rickandmortyapi.com/api/location/2,1
+6,7,Abradolf Lincler,unknown,Human,Genetic experiment,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/21,2
+7,8,Adjudicator Rick,Dead,Human,,Male,,https://rickandmortyapi.com/api/location/3,1
+8,9,Agency Director,Dead,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+9,10,Alan Rails,Dead,Human,Superhuman (Ghost trains summoner),Male,,https://rickandmortyapi.com/api/location/4,1
+10,11,Albert Einstein,Dead,Human,,Male,https://rickandmortyapi.com/api/location/1,https://rickandmortyapi.com/api/location/20,1
+11,12,Alexander,Dead,Human,,Male,https://rickandmortyapi.com/api/location/1,https://rickandmortyapi.com/api/location/5,1
+12,13,Alien Googah,unknown,Alien,,unknown,,https://rickandmortyapi.com/api/location/20,1
+13,14,Alien Morty,unknown,Alien,,Male,,https://rickandmortyapi.com/api/location/3,1
+14,15,Alien Rick,unknown,Alien,,Male,,https://rickandmortyapi.com/api/location/3,1
+15,16,Amish Cyborg,Dead,Alien,Parasite,Male,,https://rickandmortyapi.com/api/location/20,1
+16,17,Annie,Alive,Human,,Female,https://rickandmortyapi.com/api/location/1,https://rickandmortyapi.com/api/location/5,1
+17,18,Antenna Morty,Alive,Human,Human with antennae,Male,,https://rickandmortyapi.com/api/location/3,2
+18,19,Antenna Rick,unknown,Human,Human with antennae,Male,,,1
+19,20,Ants in my Eyes Johnson,unknown,Human,Human with ants in his eyes,Male,,https://rickandmortyapi.com/api/location/6,1
+20,21,Aqua Morty,unknown,Humanoid,Fish-Person,Male,,https://rickandmortyapi.com/api/location/3,2
+21,22,Aqua Rick,unknown,Humanoid,Fish-Person,Male,,https://rickandmortyapi.com/api/location/3,3
+22,23,Arcade Alien,unknown,Alien,,Male,,https://rickandmortyapi.com/api/location/7,5
+23,24,Armagheadon,Alive,Alien,Cromulon,Male,https://rickandmortyapi.com/api/location/22,https://rickandmortyapi.com/api/location/22,1
+24,25,Armothy,Dead,unknown,Self-aware arm,Male,https://rickandmortyapi.com/api/location/8,https://rickandmortyapi.com/api/location/8,1
+25,26,Arthricia,Alive,Alien,Cat-Person,Female,https://rickandmortyapi.com/api/location/9,https://rickandmortyapi.com/api/location/9,1
+26,27,Artist Morty,Alive,Human,,Male,,https://rickandmortyapi.com/api/location/3,2
+27,28,Attila Starwar,Alive,Human,,Male,,https://rickandmortyapi.com/api/location/6,3
+28,29,Baby Legs,Alive,Human,Human with baby legs,Male,,https://rickandmortyapi.com/api/location/6,1
+29,30,Baby Poopybutthole,Alive,Poopybutthole,,Male,,,1
+30,31,Baby Wizard,Dead,Alien,Parasite,Male,,https://rickandmortyapi.com/api/location/20,1
+31,32,Bearded Lady,Dead,Alien,Parasite,Female,,https://rickandmortyapi.com/api/location/20,1
+32,33,Beebo,Dead,Alien,,Male,https://rickandmortyapi.com/api/location/10,https://rickandmortyapi.com/api/location/10,1
+33,34,Benjamin,Alive,Poopybutthole,,Male,,https://rickandmortyapi.com/api/location/6,3
+34,35,Bepisian,Alive,Alien,Bepisian,unknown,https://rickandmortyapi.com/api/location/11,https://rickandmortyapi.com/api/location/11,4
+35,36,Beta-Seven,Alive,Alien,Hivemind,unknown,,,1
+36,37,Beth Sanchez,Alive,Human,,Female,https://rickandmortyapi.com/api/location/23,https://rickandmortyapi.com/api/location/23,1
+37,38,Beth Smith,Alive,Human,,Female,https://rickandmortyapi.com/api/location/1,https://rickandmortyapi.com/api/location/1,8
+38,39,Beth Smith,Alive,Human,,Female,https://rickandmortyapi.com/api/location/34,https://rickandmortyapi.com/api/location/34,1
+39,40,Beth's Mytholog,Dead,Mythological Creature,Mytholog,Female,https://rickandmortyapi.com/api/location/13,https://rickandmortyapi.com/api/location/13,1
+40,41,Big Boobed Waitress,Alive,Mythological Creature,,Female,https://rickandmortyapi.com/api/location/48,https://rickandmortyapi.com/api/location/48,1
+41,42,Big Head Morty,unknown,Human,Human with giant head,Male,,https://rickandmortyapi.com/api/location/3,1
+42,43,Big Morty,Dead,Human,,Male,,https://rickandmortyapi.com/api/location/3,1
+43,44,Body Guard Morty,Dead,Human,,Male,,https://rickandmortyapi.com/api/location/3,1
+44,45,Bill,Alive,Human,,Male,https://rickandmortyapi.com/api/location/1,https://rickandmortyapi.com/api/location/1,1
+45,46,Bill,unknown,Animal,Dog,Male,https://rickandmortyapi.com/api/location/20,,1
+46,47,Birdperson,Alive,Alien,Bird-Person,Male,https://rickandmortyapi.com/api/location/15,https://rickandmortyapi.com/api/location/35,7
+47,48,Black Rick,Alive,Human,,Male,,https://rickandmortyapi.com/api/location/3,2
+48,49,Blamph,Alive,Alien,,unknown,,https://rickandmortyapi.com/api/location/6,1
+49,50,Blim Blam,Alive,Alien,Korblock,Male,,https://rickandmortyapi.com/api/location/20,1
+50,51,Blue Diplomat,Alive,Alien,,Male,,https://rickandmortyapi.com/api/location/6,1
+51,52,Blue Footprint Guy,Dead,Human,,Male,https://rickandmortyapi.com/api/location/8,https://rickandmortyapi.com/api/location/8,1
+52,53,Blue Shirt Morty,unknown,Human,,Male,,https://rickandmortyapi.com/api/location/3,1
+53,54,Bobby Moynihan,Alive,Human,,Male,,https://rickandmortyapi.com/api/location/6,1
+54,55,Boobloosian,Dead,Alien,Boobloosian,unknown,,https://rickandmortyapi.com/api/location/13,2
+55,56,Bootleg Portal Chemist Rick,Dead,Human,,Male,,https://rickandmortyapi.com/api/location/3,1
+56,57,Borpocian,Alive,Alien,Elephant-Person,Male,,,1
+57,58,Brad,Alive,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,4
+58,59,Brad Anderson,Dead,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+59,60,Calypso,Dead,Human,Superhuman,Female,,,1
+60,61,Campaign Manager Morty,Dead,Human,,Male,,https://rickandmortyapi.com/api/location/3,1
+61,62,Canklanker Thom,Dead,Alien,Gromflomite,Male,https://rickandmortyapi.com/api/location/19,,1
+62,63,Centaur,Alive,Mythological Creature,Centaur,Male,,https://rickandmortyapi.com/api/location/18,1
+63,64,Chris,Dead,Alien,Organic gun,unknown,,https://rickandmortyapi.com/api/location/20,1
+64,65,Chris,Alive,Humanoid,Microverse inhabitant,Male,https://rickandmortyapi.com/api/location/24,https://rickandmortyapi.com/api/location/24,1
+65,66,Coach Feratu (Balik Alistane),Dead,Mythological Creature,Vampire,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+66,67,Collector,Alive,Alien,Light bulb-Alien,Male,https://rickandmortyapi.com/api/location/25,https://rickandmortyapi.com/api/location/25,1
+67,68,Colossus,Dead,Human,,Male,https://rickandmortyapi.com/api/location/8,https://rickandmortyapi.com/api/location/8,1
+68,69,Commander Rick,Dead,Human,,Male,,https://rickandmortyapi.com/api/location/3,1
+69,70,Concerto,Dead,Humanoid,,Male,,,1
+70,71,Conroy,Dead,Robot,,unknown,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/1,1
+71,72,Cool Rick,Alive,Human,,Male,https://rickandmortyapi.com/api/location/26,https://rickandmortyapi.com/api/location/3,1
+72,73,Cop Morty,Dead,Human,,Male,,https://rickandmortyapi.com/api/location/3,1
+73,74,Cop Rick,Alive,Human,,Male,,https://rickandmortyapi.com/api/location/3,1
+74,75,Courier Flap,Alive,Alien,,unknown,,https://rickandmortyapi.com/api/location/35,1
+75,76,Cousin Nicky,Dead,Alien,Parasite,Male,,https://rickandmortyapi.com/api/location/20,1
+76,77,Cowboy Morty,Alive,Human,,Male,,https://rickandmortyapi.com/api/location/3,1
+77,78,Cowboy Rick,Alive,Human,,Male,,https://rickandmortyapi.com/api/location/3,2
+78,79,Crab Spider,Alive,Alien,Animal,unknown,https://rickandmortyapi.com/api/location/27,https://rickandmortyapi.com/api/location/27,1
+79,80,Creepy Little Girl,Alive,Human,,Female,,https://rickandmortyapi.com/api/location/18,1
+80,81,Crocubot,Dead,Animal,Robot-Crocodile hybrid,Male,,https://rickandmortyapi.com/api/location/4,1
+81,82,Cronenberg Rick,unknown,Cronenberg,,Male,https://rickandmortyapi.com/api/location/12,https://rickandmortyapi.com/api/location/1,2
+82,83,Cronenberg Morty,unknown,Cronenberg,,Male,https://rickandmortyapi.com/api/location/12,https://rickandmortyapi.com/api/location/1,2
+83,84,Cult Leader Morty,Alive,Human,,Male,,https://rickandmortyapi.com/api/location/27,1
+84,85,Cyclops Morty,Alive,Humanoid,,Male,,https://rickandmortyapi.com/api/location/3,2
+85,86,Cyclops Rick,Dead,Humanoid,,Male,,https://rickandmortyapi.com/api/location/3,3
+86,87,Cynthia,Dead,Alien,Zigerion,Female,,https://rickandmortyapi.com/api/location/46,1
+87,88,Cynthia,Alive,Human,,Female,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,4
+88,89,Dale,Dead,Mythological Creature,Giant,Male,https://rickandmortyapi.com/api/location/14,https://rickandmortyapi.com/api/location/14,1
+89,90,Daron Jefferson,Alive,Alien,Cone-nippled alien,Male,https://rickandmortyapi.com/api/location/28,https://rickandmortyapi.com/api/location/28,1
+90,91,David Letterman,Alive,Human,,Male,https://rickandmortyapi.com/api/location/23,https://rickandmortyapi.com/api/location/23,1
+91,92,Davin,Dead,Human,,Male,https://rickandmortyapi.com/api/location/1,https://rickandmortyapi.com/api/location/1,2
+92,93,Diablo Verde,Dead,Mythological Creature,Demon,Male,,https://rickandmortyapi.com/api/location/29,1
+93,94,Diane Sanchez,Dead,Human,,Female,https://rickandmortyapi.com/api/location/1,https://rickandmortyapi.com/api/location/126,2
+94,95,Dipper and Mabel Mortys,unknown,Human,,unknown,,https://rickandmortyapi.com/api/location/3,1
+95,96,Tuberculosis,Dead,Disease,,unknown,https://rickandmortyapi.com/api/location/5,https://rickandmortyapi.com/api/location/5,1
+96,97,Gonorrhea,Dead,Disease,,unknown,https://rickandmortyapi.com/api/location/5,https://rickandmortyapi.com/api/location/5,1
+97,98,Hepatitis A,Dead,Disease,,unknown,https://rickandmortyapi.com/api/location/5,https://rickandmortyapi.com/api/location/5,1
+98,99,Hepatitis C,Dead,Disease,,unknown,https://rickandmortyapi.com/api/location/5,https://rickandmortyapi.com/api/location/5,1
+99,100,Bubonic Plague,Dead,Disease,,unknown,https://rickandmortyapi.com/api/location/5,https://rickandmortyapi.com/api/location/5,1
+100,101,E. Coli,Dead,Disease,,unknown,https://rickandmortyapi.com/api/location/5,https://rickandmortyapi.com/api/location/5,1
+101,102,Donna Gueterman,Dead,Robot,,Female,,https://rickandmortyapi.com/api/location/35,1
+102,103,Doofus Rick,unknown,Human,,Male,https://rickandmortyapi.com/api/location/31,https://rickandmortyapi.com/api/location/20,2
+103,104,Doom-Nomitron,Dead,Alien,Shapeshifter,unknown,,https://rickandmortyapi.com/api/location/29,1
+104,105,Dr. Glip-Glop,Dead,Alien,,Male,,https://rickandmortyapi.com/api/location/16,1
+105,106,Dr. Schmidt,unknown,Human,Game,Male,https://rickandmortyapi.com/api/location/32,https://rickandmortyapi.com/api/location/32,1
+106,107,Dr. Wong,Alive,Human,,Female,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,2
+107,108,Dr. Xenon Bloom,Dead,Humanoid,Amoeba-Person,Male,,https://rickandmortyapi.com/api/location/5,1
+108,109,Duck With Muscles,Dead,Alien,Parasite,Male,,https://rickandmortyapi.com/api/location/20,1
+109,110,Eli,Alive,Human,,Male,https://rickandmortyapi.com/api/location/8,https://rickandmortyapi.com/api/location/8,1
+110,111,Eli's Girlfriend,Alive,Human,,Female,https://rickandmortyapi.com/api/location/8,https://rickandmortyapi.com/api/location/8,1
+111,112,Eric McMan,Alive,Human,,Male,https://rickandmortyapi.com/api/location/1,https://rickandmortyapi.com/api/location/1,1
+112,113,Eric Stoltz Mask Morty,unknown,Human,,Male,https://rickandmortyapi.com/api/location/33,https://rickandmortyapi.com/api/location/20,1
+113,114,Ethan,unknown,Human,Cronenberg,Male,https://rickandmortyapi.com/api/location/1,https://rickandmortyapi.com/api/location/1,1
+114,115,Ethan,Alive,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,2
+115,116,Evil Beth Clone,Dead,Human,Clone,Female,,https://rickandmortyapi.com/api/location/1,1
+116,117,Evil Jerry Clone,Dead,Human,Clone,Male,,https://rickandmortyapi.com/api/location/1,1
+117,118,Evil Morty,Alive,Human,,Male,,https://rickandmortyapi.com/api/location/3,3
+118,119,Evil Rick,Dead,Humanoid,Robot,Male,,https://rickandmortyapi.com/api/location/3,1
+119,120,Evil Summer Clone,Dead,Human,Clone,Female,,https://rickandmortyapi.com/api/location/1,1
+120,121,Eyehole Man,Alive,Alien,,Male,,https://rickandmortyapi.com/api/location/6,1
+121,122,Fart,Dead,Alien,Interdimensional gaseous being,Male,,,1
+122,123,Fat Morty,Alive,Human,,Male,,https://rickandmortyapi.com/api/location/3,1
+123,124,Father Bob,Alive,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,2
+124,125,Flansian,Alive,Alien,Flansian,unknown,,https://rickandmortyapi.com/api/location/35,3
+125,126,Fleeb,unknown,Alien,,unknown,,https://rickandmortyapi.com/api/location/6,1
+126,127,Frank Palicky,Dead,Human,,Male,https://rickandmortyapi.com/api/location/1,https://rickandmortyapi.com/api/location/1,1
+127,128,Frankenstein's Monster,Dead,Alien,Parasite,Male,,https://rickandmortyapi.com/api/location/20,1
+128,129,Fulgora,Alive,Human,,Female,,https://rickandmortyapi.com/api/location/6,3
+129,130,Galactic Federation President,Dead,Alien,Gromflomite,Male,,,1
+130,131,Gar Gloonch,Dead,Alien,Zombodian,Male,,https://rickandmortyapi.com/api/location/13,3
+131,132,Gar's Mytholog,Dead,Mythological Creature,Mytholog,Male,https://rickandmortyapi.com/api/location/13,https://rickandmortyapi.com/api/location/13,1
+132,133,Garblovian,Alive,Alien,Garblovian,Male,https://rickandmortyapi.com/api/location/36,,3
+133,134,Garmanarnar,Alive,Alien,,Male,,https://rickandmortyapi.com/api/location/6,1
+134,135,Garment District Rick,Dead,Human,,Male,,https://rickandmortyapi.com/api/location/3,1
+135,136,Gazorpazorpfield,Alive,Alien,Gazorpian,Male,https://rickandmortyapi.com/api/location/40,https://rickandmortyapi.com/api/location/6,2
+136,137,Gene,Alive,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,2
+137,138,General Nathan,Dead,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+138,139,General Store Owner,Dead,Alien,Cat-Person,Male,https://rickandmortyapi.com/api/location/9,https://rickandmortyapi.com/api/location/9,1
+139,140,Genital Washer,Alive,Human,,Male,https://rickandmortyapi.com/api/location/8,https://rickandmortyapi.com/api/location/8,1
+140,141,Ghost in a Jar,Dead,Alien,Parasite,Genderless,,https://rickandmortyapi.com/api/location/20,1
+141,142,Gibble Snake,Dead,Alien,Animal,unknown,https://rickandmortyapi.com/api/location/37,https://rickandmortyapi.com/api/location/37,1
+142,143,Glasses Morty,Alive,Human,,Male,,https://rickandmortyapi.com/api/location/3,1
+143,144,Glenn,Dead,Alien,Gromflomite,Male,,https://rickandmortyapi.com/api/location/38,1
+144,145,Glenn,Alive,Human,Eat shiter-Person,Male,,https://rickandmortyapi.com/api/location/6,1
+145,146,Glexo Slim Slom,Alive,Alien,,Male,,https://rickandmortyapi.com/api/location/13,1
+146,147,Gobo,Dead,Alien,,Male,,https://rickandmortyapi.com/api/location/20,1
+147,148,Goddess Beth,unknown,Mythological Creature,Goddess,Female,https://rickandmortyapi.com/api/location/13,https://rickandmortyapi.com/api/location/13,1
+148,149,Gordon Lunas,Dead,Human,,Male,,https://rickandmortyapi.com/api/location/20,1
+149,150,Cornvelious Daniel,Dead,Alien,Gromflomite,Male,,https://rickandmortyapi.com/api/location/39,1
+150,151,Gwendolyn,unknown,Robot,Gazorpian reproduction robot,Female,https://rickandmortyapi.com/api/location/40,https://rickandmortyapi.com/api/location/20,1
+151,152,Hammerhead Morty,unknown,Humanoid,Hammerhead-Person,Male,,https://rickandmortyapi.com/api/location/3,2
+152,153,Hamster In Butt,Alive,Animal,,unknown,https://rickandmortyapi.com/api/location/41,https://rickandmortyapi.com/api/location/41,2
+153,154,Hamurai,Dead,Alien,Parasite,Male,,https://rickandmortyapi.com/api/location/20,1
+154,155,Harold,Alive,Cronenberg,,Male,https://rickandmortyapi.com/api/location/1,https://rickandmortyapi.com/api/location/1,1
+155,156,Hemorrhage,Alive,Human,,Male,https://rickandmortyapi.com/api/location/8,https://rickandmortyapi.com/api/location/8,1
+156,157,Hole in the Wall Where the Men Can See it All,unknown,unknown,Hole,Genderless,,https://rickandmortyapi.com/api/location/6,1
+157,158,Hookah Alien,Alive,Alien,Tuskfish,unknown,,https://rickandmortyapi.com/api/location/38,1
+158,159,Hunter,Dead,Human,Clone,Male,https://rickandmortyapi.com/api/location/42,https://rickandmortyapi.com/api/location/42,1
+159,160,Hunter's Father,Alive,Human,,Male,https://rickandmortyapi.com/api/location/42,https://rickandmortyapi.com/api/location/42,1
+160,161,Hydrogen-F,Alive,Alien,Alphabetrian,Female,https://rickandmortyapi.com/api/location/43,https://rickandmortyapi.com/api/location/43,1
+161,162,Ice-T,Alive,Alien,Alphabetrian,Male,https://rickandmortyapi.com/api/location/43,https://rickandmortyapi.com/api/location/43,1
+162,163,Ideal Jerry,Dead,Mythological Creature,Mytholog,Male,https://rickandmortyapi.com/api/location/13,https://rickandmortyapi.com/api/location/13,1
+163,164,Insurance Rick,unknown,Human,,Male,,https://rickandmortyapi.com/api/location/3,1
+164,165,Investigator Rick,Dead,Human,,Male,,https://rickandmortyapi.com/api/location/3,1
+165,166,Invisi-trooper,Alive,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+166,167,Izzy,Alive,Animal,Cat,unknown,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+167,168,Jackie,Alive,Alien,Gazorpian,Female,https://rickandmortyapi.com/api/location/40,https://rickandmortyapi.com/api/location/40,1
+168,169,Jacob,Alive,Human,,Male,https://rickandmortyapi.com/api/location/1,https://rickandmortyapi.com/api/location/1,2
+169,170,Jacqueline,Alive,Human,,Female,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+170,171,Jaguar,Alive,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+171,172,Jamey,Alive,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+172,173,Jan-Michael Vincent,Alive,Human,,Male,,https://rickandmortyapi.com/api/location/6,1
+173,174,Jerry 5-126,Alive,Human,,Male,https://rickandmortyapi.com/api/location/17,https://rickandmortyapi.com/api/location/44,1
+174,175,Jerry Smith,Alive,Human,,Male,https://rickandmortyapi.com/api/location/1,https://rickandmortyapi.com/api/location/1,7
+175,176,Celebrity Jerry,Alive,Human,,Male,https://rickandmortyapi.com/api/location/23,https://rickandmortyapi.com/api/location/23,1
+176,177,Jerry Smith,Alive,Human,,Male,https://rickandmortyapi.com/api/location/34,https://rickandmortyapi.com/api/location/34,1
+177,178,Jerry's Mytholog,Dead,Mythological Creature,Mytholog,Male,https://rickandmortyapi.com/api/location/13,https://rickandmortyapi.com/api/location/13,1
+178,179,Jessica,Alive,Cronenberg,,Female,https://rickandmortyapi.com/api/location/1,https://rickandmortyapi.com/api/location/1,3
+179,180,Jessica,Alive,Human,Time God,Female,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,12
+180,181,Jessica's Friend,Alive,Human,,Female,https://rickandmortyapi.com/api/location/1,https://rickandmortyapi.com/api/location/20,8
+181,182,Jim,Alive,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+182,183,Johnny Depp,Alive,Human,,Male,https://rickandmortyapi.com/api/location/23,https://rickandmortyapi.com/api/location/23,1
+183,184,Jon,Alive,Alien,Gazorpian,Male,https://rickandmortyapi.com/api/location/40,https://rickandmortyapi.com/api/location/6,1
+184,185,Joseph Eli Lipkip,Alive,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+185,186,Joyce Smith,Alive,Human,,Female,https://rickandmortyapi.com/api/location/1,https://rickandmortyapi.com/api/location/1,1
+186,187,Juggling Rick,unknown,Human,,Male,,https://rickandmortyapi.com/api/location/3,1
+187,188,Karen Entity,Alive,Alien,Unknown-nippled alien,Female,https://rickandmortyapi.com/api/location/28,https://rickandmortyapi.com/api/location/28,1
+188,189,Katarina,Dead,Human,,Female,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+189,190,Keara,Alive,Alien,Krootabulan,Female,https://rickandmortyapi.com/api/location/45,https://rickandmortyapi.com/api/location/20,1
+190,191,Kevin,Dead,Alien,Zigerion,Male,,https://rickandmortyapi.com/api/location/46,1
+191,192,King Flippy Nips,Alive,Alien,Plutonian,Male,https://rickandmortyapi.com/api/location/47,https://rickandmortyapi.com/api/location/47,1
+192,193,King Jellybean,Dead,Mythological Creature,Jellybean,Male,https://rickandmortyapi.com/api/location/48,https://rickandmortyapi.com/api/location/48,1
+193,194,Kozbian,Alive,Alien,Tentacle alien,unknown,,https://rickandmortyapi.com/api/location/35,1
+194,195,Kristen Stewart,Alive,Human,,Female,https://rickandmortyapi.com/api/location/23,https://rickandmortyapi.com/api/location/23,1
+195,196,Krombopulos Michael,Dead,Alien,Gromflomite,Male,,,1
+196,197,Kyle,Dead,Humanoid,Miniverse inhabitant,Male,https://rickandmortyapi.com/api/location/49,https://rickandmortyapi.com/api/location/50,1
+197,198,Lady Katana,Dead,Humanoid,Cyborg,Female,,https://rickandmortyapi.com/api/location/29,1
+198,199,Larva Alien,Alive,Alien,Larva alien,unknown,https://rickandmortyapi.com/api/location/51,https://rickandmortyapi.com/api/location/35,3
+199,200,Lawyer Morty,unknown,Human,,Male,,https://rickandmortyapi.com/api/location/3,1
+200,201,Leonard Smith,Alive,Human,,Male,https://rickandmortyapi.com/api/location/1,https://rickandmortyapi.com/api/location/1,1
+201,202,Lighthouse Keeper,Dead,Alien,Cat-Person,Male,https://rickandmortyapi.com/api/location/9,https://rickandmortyapi.com/api/location/9,1
+202,203,Lil B,Dead,Alien,Snail alien,Male,,https://rickandmortyapi.com/api/location/20,2
+203,204,Lisa,Dead,Alien,,Female,,https://rickandmortyapi.com/api/location/7,1
+204,205,Little Dipper,Alive,Humanoid,Tinymouth,Male,,https://rickandmortyapi.com/api/location/6,1
+205,206,Lizard Morty,Alive,Humanoid,Lizard-Person,Male,,https://rickandmortyapi.com/api/location/3,1
+206,207,Loggins,Alive,Alien,Alligator-Person,Male,,https://rickandmortyapi.com/api/location/6,3
+207,208,Logic,Alive,Human,,Male,,https://rickandmortyapi.com/api/location/4,1
+208,209,Long Sleeved Morty,unknown,Human,,Male,,https://rickandmortyapi.com/api/location/3,1
+209,210,Lucy,Dead,Human,,Female,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+210,211,Ma-Sha,Alive,Alien,Gazorpian,Female,https://rickandmortyapi.com/api/location/40,https://rickandmortyapi.com/api/location/40,1
+211,212,Magma-Q,Dead,Alien,Alphabetrian,Male,https://rickandmortyapi.com/api/location/43,https://rickandmortyapi.com/api/location/43,1
+212,213,Magnesium-J,Alive,Alien,Alphabetrian,Male,https://rickandmortyapi.com/api/location/43,https://rickandmortyapi.com/api/location/43,1
+213,214,Man Painted Silver Who Makes Robot Noises,Alive,Human,,Male,,https://rickandmortyapi.com/api/location/6,1
+214,215,Maximums Rickimus,Dead,Human,,Male,,https://rickandmortyapi.com/api/location/126,3
+215,216,MC Haps,Alive,Human,,Male,https://rickandmortyapi.com/api/location/1,https://rickandmortyapi.com/api/location/1,3
+216,217,Mechanical Morty,Dead,Robot,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+217,218,Mechanical Rick,unknown,Robot,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+218,219,Mechanical Summer,unknown,Robot,,Female,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+219,220,Mega Fruit Farmer Rick,Alive,Human,,Male,,https://rickandmortyapi.com/api/location/3,1
+220,221,Melissa,Alive,Mythological Creature,Monster,Female,https://rickandmortyapi.com/api/location/18,https://rickandmortyapi.com/api/location/18,1
+221,222,Michael Denny and the Denny Singers,Alive,Human,,Male,,https://rickandmortyapi.com/api/location/6,1
+222,223,Michael Jenkins,Dead,Human,,Male,,https://rickandmortyapi.com/api/location/6,1
+223,224,Michael McLick,Alive,Human,,Male,,https://rickandmortyapi.com/api/location/6,1
+224,225,Michael Thompson,Alive,Humanoid,Conjoined twin,Male,,https://rickandmortyapi.com/api/location/6,1
+225,226,Million Ants,Dead,Animal,Sentient ant colony,Male,,https://rickandmortyapi.com/api/location/4,1
+226,227,Mitch,Alive,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+227,228,Mohawk Guy,Dead,Human,,Male,https://rickandmortyapi.com/api/location/8,https://rickandmortyapi.com/api/location/8,1
+228,229,Morty Mart Manager Morty,Alive,Human,,Male,,https://rickandmortyapi.com/api/location/3,1
+229,230,Morty Jr.,Alive,Humanoid,Human Gazorpian,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+230,231,Morty Rick,unknown,Human,,Male,,https://rickandmortyapi.com/api/location/3,1
+231,232,Morty Smith,Alive,Human,,Male,https://rickandmortyapi.com/api/location/34,https://rickandmortyapi.com/api/location/34,1
+232,233,Morty K-22,Alive,Human,,Male,https://rickandmortyapi.com/api/location/52,https://rickandmortyapi.com/api/location/20,1
+233,234,Morty Smith,Dead,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+234,235,Mortytown Loco,Dead,Human,,Male,,https://rickandmortyapi.com/api/location/3,1
+235,236,Mr. Beauregard,Dead,Alien,Parasite,Male,,https://rickandmortyapi.com/api/location/20,1
+236,237,Mr. Benson,Alive,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+237,238,Mr. Booby Buyer,Alive,Mythological Creature,Boobie buyer reptilian,Male,https://rickandmortyapi.com/api/location/48,https://rickandmortyapi.com/api/location/48,1
+238,239,Mr. Goldenfold,Alive,Cronenberg,,Male,https://rickandmortyapi.com/api/location/1,https://rickandmortyapi.com/api/location/1,4
+239,240,Mr. Goldenfold,Alive,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,10
+240,241,Mr. Marklovitz,Alive,Human,,Male,https://rickandmortyapi.com/api/location/1,https://rickandmortyapi.com/api/location/20,2
+241,242,Mr. Meeseeks,unknown,Humanoid,Meeseeks,Male,https://rickandmortyapi.com/api/location/53,https://rickandmortyapi.com/api/location/77,5
+242,243,Mr. Needful,Alive,Humanoid,The Devil,Male,,https://rickandmortyapi.com/api/location/20,1
+243,244,Mr. Poopybutthole,Alive,Poopybutthole,,Male,,https://rickandmortyapi.com/api/location/20,7
+244,245,Mrs. Lipkip,Alive,Human,,Female,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+245,246,Mrs. Pancakes,Alive,Human,,Female,https://rickandmortyapi.com/api/location/1,https://rickandmortyapi.com/api/location/18,2
+246,247,Amy Poopybutthole,Alive,Poopybutthole,,Female,,,1
+247,248,Mrs. Refrigerator,Dead,Alien,Parasite,Female,,https://rickandmortyapi.com/api/location/20,1
+248,249,Mrs. Sanchez,unknown,Human,,Female,,,4
+249,250,Mrs. Sullivan,Dead,Human,Cat controlled dead lady,Female,https://rickandmortyapi.com/api/location/23,https://rickandmortyapi.com/api/location/6,1
+250,251,Nancy,Alive,Human,,Female,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,6
+251,252,Noob-Noob,Alive,Poopybutthole,,Male,,https://rickandmortyapi.com/api/location/54,1
+252,253,Numbericon,unknown,Alien,Numbericon,unknown,,https://rickandmortyapi.com/api/location/43,1
+253,254,Octopus Man,Alive,Humanoid,Octopus-Person,Male,,https://rickandmortyapi.com/api/location/6,1
+254,255,Orthodox Jew,Alive,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+255,256,Pat Gueterman,Dead,Robot,,Male,,https://rickandmortyapi.com/api/location/35,1
+256,257,Paul Fleishman,Alive,Human,,Male,,https://rickandmortyapi.com/api/location/44,1
+257,258,Pawnshop Clerk,Alive,Alien,,Male,,https://rickandmortyapi.com/api/location/55,1
+258,259,Pencilvester,Dead,Alien,Parasite,Male,,https://rickandmortyapi.com/api/location/20,1
+259,260,Phillip Jacobs,Alive,Human,,Male,,https://rickandmortyapi.com/api/location/6,1
+260,261,Photography Cyborg,unknown,Robot,,Male,,https://rickandmortyapi.com/api/location/35,1
+261,262,Photography Raptor,Dead,Alien,Parasite,unknown,,https://rickandmortyapi.com/api/location/20,1
+262,263,Pibbles Bodyguard,Alive,Alien,Hairy alien,Male,,https://rickandmortyapi.com/api/location/16,1
+263,264,Pichael Thompson,Alive,Humanoid,Conjoined twin,Male,,https://rickandmortyapi.com/api/location/6,1
+264,265,Pickle Rick,Alive,unknown,Pickle,Male,https://rickandmortyapi.com/api/location/1,https://rickandmortyapi.com/api/location/20,1
+265,266,Piece of Toast,Alive,unknown,Bread,Genderless,,https://rickandmortyapi.com/api/location/6,2
+266,267,Plumber Rick,Alive,Human,,Male,,https://rickandmortyapi.com/api/location/3,1
+267,268,Poncho,Dead,Human,,Male,,https://rickandmortyapi.com/api/location/5,1
+268,269,Presidentress of The Mega Gargantuans,Alive,Humanoid,Mega Gargantuan,Female,https://rickandmortyapi.com/api/location/56,https://rickandmortyapi.com/api/location/56,1
+269,270,Prince Nebulon,Dead,Alien,Zigerion,Male,,https://rickandmortyapi.com/api/location/46,1
+270,271,Principal Vagina,Alive,Cronenberg,,Male,https://rickandmortyapi.com/api/location/1,https://rickandmortyapi.com/api/location/1,3
+271,272,Principal Vagina,Alive,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,6
+272,273,Purge Planet Ruler,Dead,Alien,Cat-Person,Male,https://rickandmortyapi.com/api/location/9,https://rickandmortyapi.com/api/location/9,1
+273,274,Quantum Rick,unknown,Human,,Male,,https://rickandmortyapi.com/api/location/126,3
+274,275,Randy Dicknose,Alive,Human,,Male,,https://rickandmortyapi.com/api/location/6,1
+275,276,Rat Boss,Dead,Animal,Rat,unknown,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+276,277,Real Fake Doors Salesman,Alive,Human,,Male,,https://rickandmortyapi.com/api/location/6,1
+277,278,Regional Manager Rick,Dead,Human,,Male,,https://rickandmortyapi.com/api/location/3,1
+278,279,Regular Legs,Alive,Human,,Male,,https://rickandmortyapi.com/api/location/6,1
+279,280,Reverse Giraffe,Dead,Alien,Parasite,Male,,https://rickandmortyapi.com/api/location/20,1
+280,281,Reverse Rick Outrage,Dead,Human,,Male,,https://rickandmortyapi.com/api/location/3,1
+281,282,Revolio Clockberg Jr.,unknown,Alien,Gear-Person,Male,https://rickandmortyapi.com/api/location/57,https://rickandmortyapi.com/api/location/57,3
+282,283,Rick D. Sanchez III,Dead,Human,,Male,,https://rickandmortyapi.com/api/location/3,1
+283,284,Rick Guilt Rick,unknown,Human,,Male,,https://rickandmortyapi.com/api/location/3,1
+284,285,Rick Prime,Dead,Human,,Male,,https://rickandmortyapi.com/api/location/3,2
+285,286,Rick D-99,Dead,Human,,Male,https://rickandmortyapi.com/api/location/58,https://rickandmortyapi.com/api/location/3,1
+286,287,Rick D716,Dead,Human,,Male,https://rickandmortyapi.com/api/location/59,https://rickandmortyapi.com/api/location/3,1
+287,288,Rick D716-B,Alive,Human,,Male,https://rickandmortyapi.com/api/location/60,https://rickandmortyapi.com/api/location/3,1
+288,289,Rick D716-C,Alive,Human,,Male,https://rickandmortyapi.com/api/location/61,https://rickandmortyapi.com/api/location/3,1
+289,290,Rick Sanchez,Dead,Human,,Male,https://rickandmortyapi.com/api/location/34,https://rickandmortyapi.com/api/location/34,1
+290,291,Rick J-22,Alive,Human,,Male,https://rickandmortyapi.com/api/location/62,https://rickandmortyapi.com/api/location/3,1
+291,292,Rick K-22,Alive,Human,,Male,https://rickandmortyapi.com/api/location/52,https://rickandmortyapi.com/api/location/20,1
+292,293,Rick Sanchez,Dead,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+293,294,Ricktiminus Sancheziminius,Dead,Human,,Male,,https://rickandmortyapi.com/api/location/126,3
+294,295,Riq IV,Dead,Human,,Male,,https://rickandmortyapi.com/api/location/3,3
+295,296,Risotto Groupon,Dead,Alien,Blue ape alien,Male,https://rickandmortyapi.com/api/location/37,https://rickandmortyapi.com/api/location/37,1
+296,297,Risotto's Tentacled Henchman,Dead,Alien,Tentacle alien,Male,https://rickandmortyapi.com/api/location/37,https://rickandmortyapi.com/api/location/37,1
+297,298,Robot Morty,unknown,Robot,,Male,,https://rickandmortyapi.com/api/location/3,1
+298,299,Robot Rick,unknown,Robot,,Male,,https://rickandmortyapi.com/api/location/3,1
+299,300,Roger,Dead,Human,,Male,https://rickandmortyapi.com/api/location/1,https://rickandmortyapi.com/api/location/5,1
+300,301,Ron Benson,Alive,Alien,Ring-nippled alien,Male,https://rickandmortyapi.com/api/location/28,https://rickandmortyapi.com/api/location/28,1
+301,302,Ruben,Dead,Human,,Male,https://rickandmortyapi.com/api/location/1,https://rickandmortyapi.com/api/location/1,1
+302,303,Samantha,Alive,Human,,Female,https://rickandmortyapi.com/api/location/1,https://rickandmortyapi.com/api/location/1,1
+303,304,Scary Brandon,Alive,Mythological Creature,Monster,Male,https://rickandmortyapi.com/api/location/18,https://rickandmortyapi.com/api/location/18,1
+304,305,Scary Glenn,Alive,Mythological Creature,Monster,Male,https://rickandmortyapi.com/api/location/18,https://rickandmortyapi.com/api/location/18,1
+305,306,Scary Terry,Alive,Mythological Creature,Monster,Male,https://rickandmortyapi.com/api/location/18,https://rickandmortyapi.com/api/location/18,1
+306,307,Scroopy Noopers,Alive,Alien,Plutonian,Male,https://rickandmortyapi.com/api/location/47,https://rickandmortyapi.com/api/location/47,1
+307,308,Scropon,unknown,Alien,Lobster-Alien,Male,,https://rickandmortyapi.com/api/location/35,2
+308,309,Scrotian,Alive,Animal,Scrotian,Male,,https://rickandmortyapi.com/api/location/22,4
+309,310,Self-Congratulatory Jerry,unknown,Mythological Creature,Mytholog,Male,https://rickandmortyapi.com/api/location/13,https://rickandmortyapi.com/api/location/13,1
+310,311,Shimshamian,Alive,Alien,Shimshamian,Male,,https://rickandmortyapi.com/api/location/35,3
+311,312,Shlaammi,Alive,Alien,,unknown,,https://rickandmortyapi.com/api/location/6,1
+312,313,Shleemypants,Alive,unknown,Omniscient being,Male,,https://rickandmortyapi.com/api/location/78,2
+313,314,Shmlamantha Shmlicelli,Alive,Human,,Female,,https://rickandmortyapi.com/api/location/6,1
+314,315,Shmlangela Shmlobinson-Shmlower,Alive,Human,,Female,,https://rickandmortyapi.com/api/location/6,1
+315,316,Shmlona Shmlobinson,Alive,Human,,Female,,https://rickandmortyapi.com/api/location/6,1
+316,317,Shmlonathan Shmlower,Alive,Human,,Male,,https://rickandmortyapi.com/api/location/6,1
+317,318,Shmlony Shmlicelli,Alive,Human,,Male,,https://rickandmortyapi.com/api/location/6,1
+318,319,Shmooglite Runner,unknown,Alien,Animal,Male,https://rickandmortyapi.com/api/location/37,https://rickandmortyapi.com/api/location/37,1
+319,320,Shnoopy Bloopers,unknown,Alien,,Male,,https://rickandmortyapi.com/api/location/7,1
+320,321,Shrimply Pibbles,Alive,Alien,,Male,,https://rickandmortyapi.com/api/location/16,1
+321,322,Simple Rick,Dead,Human,,Male,,https://rickandmortyapi.com/api/location/3,1
+322,323,Slaveowner,Dead,Human,,Male,https://rickandmortyapi.com/api/location/8,https://rickandmortyapi.com/api/location/8,1
+323,324,Sleepy Gary,Dead,Alien,Parasite,Male,,https://rickandmortyapi.com/api/location/20,1
+324,325,Slick Morty,Dead,Human,,Male,,https://rickandmortyapi.com/api/location/3,1
+325,326,Slippery Stair,Alive,Mythological Creature,Slug,Male,https://rickandmortyapi.com/api/location/48,https://rickandmortyapi.com/api/location/20,2
+326,327,Slow Mobius,Alive,Humanoid,,Male,,https://rickandmortyapi.com/api/location/20,1
+327,328,Slow Rick,Alive,Human,,Male,,https://rickandmortyapi.com/api/location/3,1
+328,329,Snuffles (Snowball),Alive,Animal,Dog,Male,https://rickandmortyapi.com/api/location/1,,8
+329,330,Solicitor Rick,unknown,Human,,Male,,https://rickandmortyapi.com/api/location/3,2
+330,331,Squanchy,unknown,Alien,Cat-Person,Male,https://rickandmortyapi.com/api/location/35,https://rickandmortyapi.com/api/location/35,3
+331,332,Stacy,Alive,Human,,Female,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+332,333,Stair Goblin,Alive,Mythological Creature,Stair goblin,Genderless,,https://rickandmortyapi.com/api/location/48,3
+333,334,Stealy,Alive,Poopybutthole,,Male,,https://rickandmortyapi.com/api/location/6,1
+334,335,Steve,Alive,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+335,336,Steven Phillips,Alive,Alien,Unknown-nippled alien,Male,https://rickandmortyapi.com/api/location/28,https://rickandmortyapi.com/api/location/28,1
+336,337,Stu,Dead,Alien,Zigerion,Male,,https://rickandmortyapi.com/api/location/46,1
+337,338,Summer Smith,Alive,Human,,Female,https://rickandmortyapi.com/api/location/1,https://rickandmortyapi.com/api/location/1,7
+338,339,Summer Smith,Alive,Human,,Female,https://rickandmortyapi.com/api/location/34,https://rickandmortyapi.com/api/location/34,1
+339,340,Supernova,Alive,Human,Superhuman,Female,,https://rickandmortyapi.com/api/location/4,1
+340,341,Taddy Mason,Alive,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+341,342,Taint Washer,Alive,Human,,Male,https://rickandmortyapi.com/api/location/8,https://rickandmortyapi.com/api/location/8,1
+342,343,Tammy Guetermann,Alive,Cronenberg,,Female,https://rickandmortyapi.com/api/location/1,https://rickandmortyapi.com/api/location/1,2
+343,344,Tammy Guetermann,Dead,Human,,Female,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/105,5
+344,345,Teacher Rick,Alive,Human,,Male,,https://rickandmortyapi.com/api/location/3,1
+345,346,Terry,unknown,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+346,347,President Curtis,Alive,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,5
+347,348,The President of the Miniverse,Dead,Humanoid,Miniverse inhabitant,Male,https://rickandmortyapi.com/api/location/49,https://rickandmortyapi.com/api/location/49,1
+348,349,The Scientist Formerly Known as Rick,Dead,Human,,Male,,,1
+349,350,Thomas Lipkip,unknown,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/63,1
+350,351,Three Unknown Things,Alive,Alien,,unknown,,https://rickandmortyapi.com/api/location/6,1
+351,352,Tinkles,Dead,Alien,Parasite,Female,,https://rickandmortyapi.com/api/location/20,1
+352,353,Tiny Rick,Dead,Human,Clone,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+353,354,Toby Matthews,Alive,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+354,355,Todd Crystal,Alive,Alien,Unknown-nippled alien,Male,https://rickandmortyapi.com/api/location/28,https://rickandmortyapi.com/api/location/28,1
+355,356,Tom Randolph,Alive,Human,,Male,https://rickandmortyapi.com/api/location/1,https://rickandmortyapi.com/api/location/1,1
+356,357,Tommy's Clone,Alive,Human,Clone,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+357,358,Tophat Jones,Dead,Mythological Creature,Leprechaun,Male,,https://rickandmortyapi.com/api/location/6,3
+358,359,Tortured Morty,unknown,Human,,Male,,https://rickandmortyapi.com/api/location/3,1
+359,360,Toxic Morty,Dead,Humanoid,Morty's toxic side,Male,https://rickandmortyapi.com/api/location/64,https://rickandmortyapi.com/api/location/20,1
+360,361,Toxic Rick,Dead,Humanoid,Rick's toxic side,Male,https://rickandmortyapi.com/api/location/64,https://rickandmortyapi.com/api/location/20,1
+361,362,Traflorkian,Alive,Alien,Traflorkian,unknown,,https://rickandmortyapi.com/api/location/4,5
+362,363,Trandor,Alive,Alien,Krootabulan,Male,https://rickandmortyapi.com/api/location/45,https://rickandmortyapi.com/api/location/20,1
+363,364,Tree Person,Dead,Humanoid,Teenyverse inhabitant,unknown,https://rickandmortyapi.com/api/location/50,https://rickandmortyapi.com/api/location/50,1
+364,365,Tricia Lange,Alive,Human,,Female,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,5
+365,366,Trunk Morty,Alive,Humanoid,Trunk-Person,Male,https://rickandmortyapi.com/api/location/65,https://rickandmortyapi.com/api/location/3,1
+366,367,Trunk Man,Alive,Humanoid,Trunk-Person,Male,https://rickandmortyapi.com/api/location/65,https://rickandmortyapi.com/api/location/6,2
+367,368,Truth Tortoise,unknown,Mythological Creature,Omniscient being,Male,,,1
+368,369,Tusked Assassin,unknown,Alien,Tuskfish,Male,https://rickandmortyapi.com/api/location/37,https://rickandmortyapi.com/api/location/37,1
+369,370,Two Guys with Handlebar Mustaches,Alive,Human,,Male,,https://rickandmortyapi.com/api/location/6,1
+370,371,Tumblorkian,Alive,Alien,Tumblorkian,Male,https://rickandmortyapi.com/api/location/66,https://rickandmortyapi.com/api/location/66,1
+371,372,Unity,Alive,Alien,Hivemind,Genderless,,https://rickandmortyapi.com/api/location/28,1
+372,373,Unmuscular Michael,Alive,Human,,Male,,https://rickandmortyapi.com/api/location/6,1
+373,374,Vampire Master,Alive,Mythological Creature,Vampire,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+374,375,Vance Maximus,Dead,Human,,Male,,https://rickandmortyapi.com/api/location/4,1
+375,376,Veronica Ann Bennet,Alive,Alien,Gazorpian,Female,https://rickandmortyapi.com/api/location/40,https://rickandmortyapi.com/api/location/40,1
+376,377,Voltematron,Dead,Alien,Parasite,unknown,,https://rickandmortyapi.com/api/location/20,1
+377,378,Wall Crawling Rick,unknown,Humanoid,Lizard-Person,Male,,https://rickandmortyapi.com/api/location/3,1
+378,379,Wedding Bartender,unknown,Alien,,Male,,https://rickandmortyapi.com/api/location/35,1
+379,380,Unknown Rick,unknown,Human,,Male,,,2
+380,381,Woman Rick,Alive,Alien,Chair,Female,,,1
+381,382,Worldender,Dead,Alien,,Male,,https://rickandmortyapi.com/api/location/4,1
+382,383,Yaarb,Alive,Alien,,Male,,https://rickandmortyapi.com/api/location/16,1
+383,384,Yellow Headed Doctor,Alive,Alien,,Male,,https://rickandmortyapi.com/api/location/16,1
+384,385,Yellow Shirt Rick,unknown,Human,,Male,,https://rickandmortyapi.com/api/location/3,1
+385,386,Zarbadar Gloonch,Dead,Alien,Drumbloxian,Female,,https://rickandmortyapi.com/api/location/13,2
+386,387,Zarbadar's Mytholog,unknown,Mythological Creature,Mytholog,Female,https://rickandmortyapi.com/api/location/13,https://rickandmortyapi.com/api/location/13,1
+387,388,Zeep Xanflorp,Alive,Humanoid,Microverse inhabitant,Male,https://rickandmortyapi.com/api/location/24,https://rickandmortyapi.com/api/location/24,1
+388,389,Zeta Alpha Rick,Dead,Human,,Male,,https://rickandmortyapi.com/api/location/126,4
+389,390,Zick Zack,Dead,Alien,Floop Floopian,Male,,https://rickandmortyapi.com/api/location/20,1
+390,391,Uncle Steve,Dead,Alien,Parasite,Male,,https://rickandmortyapi.com/api/location/20,1
+391,392,Bearded Morty,Alive,Human,,Male,,https://rickandmortyapi.com/api/location/3,2
+392,393,Roy,Alive,Human,Game,Male,https://rickandmortyapi.com/api/location/32,https://rickandmortyapi.com/api/location/32,1
+393,394,Davin,Dead,Cronenberg,,Male,https://rickandmortyapi.com/api/location/1,https://rickandmortyapi.com/api/location/1,2
+394,395,Greebybobe,Alive,Alien,Greebybobe,unknown,https://rickandmortyapi.com/api/location/68,https://rickandmortyapi.com/api/location/4,4
+395,396,Scary Teacher,Alive,Mythological Creature,Monster,Male,https://rickandmortyapi.com/api/location/18,https://rickandmortyapi.com/api/location/18,1
+396,397,Fido,Alive,Animal,Dog,Male,https://rickandmortyapi.com/api/location/70,https://rickandmortyapi.com/api/location/70,1
+397,398,Accountant dog,Alive,Animal,Dog,Male,https://rickandmortyapi.com/api/location/70,https://rickandmortyapi.com/api/location/70,1
+398,399,Tiny-persons advocacy group lawyer,Alive,Mythological Creature,Giant,Male,https://rickandmortyapi.com/api/location/14,https://rickandmortyapi.com/api/location/14,1
+399,400,Giant Judge,Alive,Mythological Creature,Giant,Male,https://rickandmortyapi.com/api/location/14,https://rickandmortyapi.com/api/location/14,1
+400,401,Morty Jr's interviewer,Alive,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+401,402,Guy from The Bachelor,Alive,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+402,403,Corn detective,Dead,Humanoid,Corn-person,Male,https://rickandmortyapi.com/api/location/6,https://rickandmortyapi.com/api/location/6,1
+403,404,Michael Jackson,Alive,Humanoid,Phone-Person,Male,https://rickandmortyapi.com/api/location/72,https://rickandmortyapi.com/api/location/72,1
+404,405,Trunkphobic suspenders guy,Alive,Human,,Male,,https://rickandmortyapi.com/api/location/20,4
+405,406,Spiderweb teddy bear,Alive,Animal,Teddy Bear,unknown,https://rickandmortyapi.com/api/location/6,https://rickandmortyapi.com/api/location/6,1
+406,407,Regular Tyrion Lannister,Alive,Human,,Male,https://rickandmortyapi.com/api/location/6,https://rickandmortyapi.com/api/location/6,1
+407,408,Quick Mystery Presenter,Alive,Human,,Male,https://rickandmortyapi.com/api/location/6,https://rickandmortyapi.com/api/location/6,1
+408,409,Mr. Sneezy,Alive,Human,Little Human,Male,https://rickandmortyapi.com/api/location/6,https://rickandmortyapi.com/api/location/6,1
+409,410,Two Brothers,Alive,Human,,Male,https://rickandmortyapi.com/api/location/6,https://rickandmortyapi.com/api/location/6,1
+410,411,Alien Mexican Armada,unknown,Alien,Mexican,Male,https://rickandmortyapi.com/api/location/6,https://rickandmortyapi.com/api/location/6,1
+411,412,Giant Cat Monster,unknown,Animal,Giant Cat Monster,unknown,https://rickandmortyapi.com/api/location/6,https://rickandmortyapi.com/api/location/6,1
+412,413,Old Women,unknown,Human,Old Amazons,Female,https://rickandmortyapi.com/api/location/6,https://rickandmortyapi.com/api/location/6,1
+413,414,Trunkphobic guy,Alive,Human,,Male,https://rickandmortyapi.com/api/location/6,https://rickandmortyapi.com/api/location/6,1
+414,415,Pro trunk people marriage guy,Alive,Human,,Male,https://rickandmortyapi.com/api/location/6,https://rickandmortyapi.com/api/location/6,1
+415,416,Muscular Mannie,Alive,Human,Mannie,Male,https://rickandmortyapi.com/api/location/6,https://rickandmortyapi.com/api/location/6,1
+416,417,Baby Legs Chief,Alive,Human,,Male,https://rickandmortyapi.com/api/location/6,https://rickandmortyapi.com/api/location/6,1
+417,418,Mrs. Sullivan's Boyfriend,Alive,Human,Necrophiliac,Male,https://rickandmortyapi.com/api/location/6,https://rickandmortyapi.com/api/location/6,1
+418,419,Plutonian Hostess,Alive,Alien,Plutonian,Female,https://rickandmortyapi.com/api/location/47,https://rickandmortyapi.com/api/location/47,1
+419,420,Plutonian Host,Alive,Alien,Plutonian,Male,https://rickandmortyapi.com/api/location/47,https://rickandmortyapi.com/api/location/47,1
+420,421,Rich Plutonian,Alive,Alien,Plutonian,Female,https://rickandmortyapi.com/api/location/47,https://rickandmortyapi.com/api/location/47,1
+421,422,Rich Plutonian,Alive,Alien,Plutonian,Male,https://rickandmortyapi.com/api/location/47,https://rickandmortyapi.com/api/location/47,1
+422,423,Synthetic Laser Eels,Alive,Animal,Eel,unknown,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+423,424,Pizza-person,Alive,Humanoid,Pizza,Male,https://rickandmortyapi.com/api/location/71,https://rickandmortyapi.com/api/location/71,1
+424,425,Pizza-person,Alive,Humanoid,Pizza,Male,https://rickandmortyapi.com/api/location/71,https://rickandmortyapi.com/api/location/71,1
+425,426,Greasy Grandma,Alive,Human,Grandma,Female,https://rickandmortyapi.com/api/location/73,https://rickandmortyapi.com/api/location/73,1
+426,427,Phone-person,Alive,Humanoid,Phone,Male,https://rickandmortyapi.com/api/location/72,https://rickandmortyapi.com/api/location/72,1
+427,428,Phone-person,Alive,Humanoid,Phone,Male,https://rickandmortyapi.com/api/location/72,https://rickandmortyapi.com/api/location/72,1
+428,429,Chair-person,Alive,Humanoid,Chair,Male,https://rickandmortyapi.com/api/location/74,https://rickandmortyapi.com/api/location/74,1
+429,430,Chair-person,Alive,Humanoid,Chair,Male,https://rickandmortyapi.com/api/location/74,https://rickandmortyapi.com/api/location/74,1
+430,431,Chair-homeless,Alive,Humanoid,Chair,Male,https://rickandmortyapi.com/api/location/74,https://rickandmortyapi.com/api/location/74,1
+431,432,Chair-waiter,Alive,Humanoid,Chair,Male,https://rickandmortyapi.com/api/location/74,https://rickandmortyapi.com/api/location/74,1
+432,433,Doopidoo,Alive,Animal,Doopidoo,unknown,,,1
+433,434,Super Weird Rick,unknown,Human,,Male,,,1
+434,435,Pripudlian,Alive,Alien,Pripudlian,unknown,,https://rickandmortyapi.com/api/location/20,4
+435,436,Giant Testicle Monster,Alive,Alien,,unknown,https://rickandmortyapi.com/api/location/21,https://rickandmortyapi.com/api/location/21,2
+436,437,Michael,Alive,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+437,438,Michael's Lawyer,Alive,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+438,439,Veterinary,Alive,Human,,Female,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+439,440,Veterinary Nurse,Alive,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+440,441,Bearded Jerry,Alive,Human,,Male,,https://rickandmortyapi.com/api/location/44,1
+441,442,Shaved Head Jerry,Alive,Human,,Male,,https://rickandmortyapi.com/api/location/44,1
+442,443,Tank Top Jerry,Alive,Human,,Male,,https://rickandmortyapi.com/api/location/44,1
+443,444,Pink Polo Shirt Jerry,Alive,Human,,Male,,https://rickandmortyapi.com/api/location/44,1
+444,445,Jerryboree Keeper,Alive,Alien,,Female,,https://rickandmortyapi.com/api/location/44,1
+445,446,Jerryboree Receptionist,Alive,Alien,,Male,,https://rickandmortyapi.com/api/location/44,1
+446,447,Anchor Gear,Alive,Alien,Gear-Person,Male,https://rickandmortyapi.com/api/location/57,https://rickandmortyapi.com/api/location/57,1
+447,448,Gear Cop,Dead,Alien,Gear-Person,Male,https://rickandmortyapi.com/api/location/57,https://rickandmortyapi.com/api/location/57,1
+448,449,Roy's Mum,Alive,Human,Game,Female,https://rickandmortyapi.com/api/location/32,https://rickandmortyapi.com/api/location/32,1
+449,450,Roy's Wife,Alive,Human,Game,Male,https://rickandmortyapi.com/api/location/32,https://rickandmortyapi.com/api/location/32,1
+450,451,Roy's Son,Alive,Human,Game,Male,https://rickandmortyapi.com/api/location/32,https://rickandmortyapi.com/api/location/32,1
+451,452,Simon,Alive,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+452,453,Vampire Master's Assistant,Alive,Mythological Creature,Vampire,Male,,https://rickandmortyapi.com/api/location/20,1
+453,454,Arbolian Mentirososian,Alive,Alien,,unknown,https://rickandmortyapi.com/api/location/75,https://rickandmortyapi.com/api/location/16,3
+454,455,St. Gloopy Noops Nurse,Alive,Alien,,Female,,https://rickandmortyapi.com/api/location/16,1
+455,456,Nano Doctor,Alive,Alien,Nano Alien,Male,,https://rickandmortyapi.com/api/location/16,1
+456,457,Funny Songs Presenter,Alive,Human,,Male,,https://rickandmortyapi.com/api/location/6,1
+457,458,Tax Attorney,unknown,Human,,Male,,https://rickandmortyapi.com/api/location/6,1
+458,459,Butthole Ice Cream Guy,Alive,Alien,,Male,,https://rickandmortyapi.com/api/location/6,1
+459,460,Traflorkian Journalist,Alive,Alien,Traflorkian,Male,,https://rickandmortyapi.com/api/location/16,1
+460,461,Communication's Responsible Rick,Dead,Human,,Male,,https://rickandmortyapi.com/api/location/3,1
+461,462,Teleportation's Responsible Rick,unknown,Human,,Male,,https://rickandmortyapi.com/api/location/3,1
+462,463,SEAL Team Rick,Dead,Human,,Male,,https://rickandmortyapi.com/api/location/3,1
+463,464,SEAL Team Rick,Dead,Human,,Male,,https://rickandmortyapi.com/api/location/3,1
+464,465,SEAL Team Rick,Dead,Human,,Male,,https://rickandmortyapi.com/api/location/3,1
+465,466,SEAL Team Rick,Dead,Human,,Male,,https://rickandmortyapi.com/api/location/3,1
+466,467,Morphizer-XE Customer Support,Alive,Alien,,Male,,https://rickandmortyapi.com/api/location/20,1
+467,468,Morphizer-XE Customer Support,Alive,Alien,,Male,,https://rickandmortyapi.com/api/location/20,1
+468,469,Morphizer-XE Customer Support,unknown,Alien,,Male,,https://rickandmortyapi.com/api/location/20,1
+469,470,Alien Spa Employee,Alive,Alien,,Male,,https://rickandmortyapi.com/api/location/76,1
+470,471,Little Voltron,Alive,Robot,,Genderless,,https://rickandmortyapi.com/api/location/20,1
+471,472,Baby Rick,Alive,Human,Clone,Male,https://rickandmortyapi.com/api/location/3,https://rickandmortyapi.com/api/location/3,1
+472,473,Bartender Morty,Alive,Human,,Male,,https://rickandmortyapi.com/api/location/3,1
+473,474,Dancer Cowboy Morty,Alive,Human,,Male,,https://rickandmortyapi.com/api/location/3,1
+474,475,Dancer Morty,Alive,Human,,Male,,https://rickandmortyapi.com/api/location/3,1
+475,476,Flower Morty,Alive,Human,Human with a flower in his head,Male,,https://rickandmortyapi.com/api/location/3,1
+476,477,Hairdresser Rick,Alive,Human,,Male,,https://rickandmortyapi.com/api/location/3,1
+477,478,Journalist Rick,Alive,Human,,Male,,https://rickandmortyapi.com/api/location/3,1
+478,479,Private Sector Rick,Dead,Human,,Male,,https://rickandmortyapi.com/api/location/3,1
+479,480,Purple Morty,Alive,Alien,,Male,,https://rickandmortyapi.com/api/location/3,1
+480,481,Retired General Rick,unknown,Human,,Male,,https://rickandmortyapi.com/api/location/3,1
+481,482,Secret Service Rick,Alive,Human,,Male,,https://rickandmortyapi.com/api/location/3,1
+482,483,Steve Jobs Rick,Alive,Human,,Male,,https://rickandmortyapi.com/api/location/3,1
+483,484,Sheik Rick,Dead,Human,,Male,,https://rickandmortyapi.com/api/location/3,1
+484,485,Modern Rick,Alive,Human,,Male,,https://rickandmortyapi.com/api/location/3,1
+485,486,Tan Rick,Dead,Human,,Male,,https://rickandmortyapi.com/api/location/3,1
+486,487,Visor Rick,Dead,Human,,Male,,https://rickandmortyapi.com/api/location/3,1
+487,488,Colonial Rick,Dead,Human,,Male,,https://rickandmortyapi.com/api/location/3,1
+488,489,P-Coat Rick,Dead,Human,,Male,,https://rickandmortyapi.com/api/location/3,1
+489,490,Chang,Alive,Human,,Male,,https://rickandmortyapi.com/api/location/25,1
+490,491,Dr. Eleanor Arroway,Alive,Human,,Female,,https://rickandmortyapi.com/api/location/25,1
+491,492,Varrix,Alive,Alien,,unknown,,https://rickandmortyapi.com/api/location/20,1
+492,493,Secretary of the Interior,Alive,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+493,494,Crystal Poacher,Dead,Alien,,Male,,https://rickandmortyapi.com/api/location/79,1
+494,495,Crystal Poacher,Dead,Alien,,Male,,https://rickandmortyapi.com/api/location/79,1
+495,496,Crystal Poacher,Dead,Alien,,Male,,https://rickandmortyapi.com/api/location/79,1
+496,497,Hologram Rick,Dead,Humanoid,Hologram,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+497,498,Fascist Rick,Dead,Human,,Male,https://rickandmortyapi.com/api/location/77,https://rickandmortyapi.com/api/location/77,1
+498,499,Fascist Morty,Dead,Human,,Male,https://rickandmortyapi.com/api/location/77,https://rickandmortyapi.com/api/location/77,1
+499,500,Fascist Mr. President,Alive,Human,,Male,https://rickandmortyapi.com/api/location/77,https://rickandmortyapi.com/api/location/77,1
+500,501,Fascist Rick’s Clone,Dead,Human,Clone,Male,https://rickandmortyapi.com/api/location/77,https://rickandmortyapi.com/api/location/77,1
+501,502,Revolio Clockberg Jr.,Dead,Alien,Gear-Person,Male,https://rickandmortyapi.com/api/location/77,https://rickandmortyapi.com/api/location/77,1
+502,503,Fascist Shrimp Rick,Alive,Animal,Shrimp,Male,https://rickandmortyapi.com/api/location/80,https://rickandmortyapi.com/api/location/80,1
+503,504,Fascist Shrimp Rick’s Clone,Dead,Animal,Shrimp,Male,https://rickandmortyapi.com/api/location/80,https://rickandmortyapi.com/api/location/80,1
+504,505,Fascist Shrimp Morty,Alive,Animal,Shrimp,Male,https://rickandmortyapi.com/api/location/80,https://rickandmortyapi.com/api/location/80,1
+505,506,Fascist Shrimp SS,Alive,Animal,Shrimp,Male,https://rickandmortyapi.com/api/location/80,https://rickandmortyapi.com/api/location/80,1
+506,507,Fascist Teddy Bear Rick,Alive,Animal,Teddy Bear,Male,https://rickandmortyapi.com/api/location/81,https://rickandmortyapi.com/api/location/81,1
+507,508,Fascist Teddy Bear Rick’s Clone,Dead,Animal,Teddy Bear,Male,https://rickandmortyapi.com/api/location/81,https://rickandmortyapi.com/api/location/81,1
+508,509,Bully,unknown,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+509,510,Anchorman,Alive,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+510,511,Anchorwoman,Alive,Human,,Female,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+511,512,Morty’s Lawyer,Alive,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+512,513,Judge,Dead,Human,,Female,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+513,514,Public Opinion Judge,Alive,Human,,Female,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+514,515,Caterpillar Mr. Goldenfold,Dead,Animal,Caterpillar,Male,https://rickandmortyapi.com/api/location/82,https://rickandmortyapi.com/api/location/82,1
+515,516,Wasp Rick,Alive,Animal,Wasp,Male,https://rickandmortyapi.com/api/location/82,https://rickandmortyapi.com/api/location/20,1
+516,517,Wasp Rick’s Clone,unknown,Animal,Wasp,Male,https://rickandmortyapi.com/api/location/82,https://rickandmortyapi.com/api/location/20,1
+517,518,Wasp Morty,Alive,Animal,Wasp,Male,https://rickandmortyapi.com/api/location/82,https://rickandmortyapi.com/api/location/82,1
+518,519,Wasp Summer,Alive,Animal,Wasp,Female,https://rickandmortyapi.com/api/location/82,https://rickandmortyapi.com/api/location/82,1
+519,520,Wasp Jerry,Alive,Animal,Wasp,Male,https://rickandmortyapi.com/api/location/82,https://rickandmortyapi.com/api/location/82,1
+520,521,Wasp Beth,Alive,Animal,Wasp,Female,https://rickandmortyapi.com/api/location/82,https://rickandmortyapi.com/api/location/82,1
+521,522,Caterpillar Mr. Goldenfold’s Larvae,Dead,Animal,Caterpillar,unknown,https://rickandmortyapi.com/api/location/82,https://rickandmortyapi.com/api/location/82,1
+522,523,Boglin,unknown,unknown,Toy,unknown,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+523,524,Kirkland Brand Mr. Meeseeks,unknown,Humanoid,Meeseeks,Male,https://rickandmortyapi.com/api/location/53,https://rickandmortyapi.com/api/location/20,1
+524,525,Glootie,Alive,Alien,Monogatron,Male,,https://rickandmortyapi.com/api/location/83,1
+525,526,Danny Publitz,Alive,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+526,527,Mothership Intern,Alive,Alien,Monogatron,Male,,https://rickandmortyapi.com/api/location/83,1
+527,528,Monogatron Leader,Alive,Alien,Monogatron,Male,,https://rickandmortyapi.com/api/location/83,1
+528,529,Lizard,Dead,Alien,Lizard,Male,https://rickandmortyapi.com/api/location/85,https://rickandmortyapi.com/api/location/85,1
+529,530,Deliverance,Dead,Robot,,Genderless,https://rickandmortyapi.com/api/location/85,https://rickandmortyapi.com/api/location/85,1
+530,531,Tony,Dead,Alien,,Male,,https://rickandmortyapi.com/api/location/86,1
+531,532,Tony’s Wife,Dead,Alien,,Female,https://rickandmortyapi.com/api/location/87,https://rickandmortyapi.com/api/location/87,1
+532,533,Monogatron Queen,Alive,Alien,Monogatron,Female,,https://rickandmortyapi.com/api/location/83,1
+533,534,Tony's Dad,Alive,Alien,,Male,,https://rickandmortyapi.com/api/location/20,1
+534,535,Jeff,Alive,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+535,536,Josiah,Alive,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+536,537,Maggie,Alive,Human,,Female,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+537,538,Priest Witherspoon,Alive,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+538,539,Richard,Alive,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+539,540,Running Bird,Alive,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+540,541,Secretary at Tony's,Alive,Alien,,Female,,https://rickandmortyapi.com/api/location/20,1
+541,542,Mountain Sweat Jerry,Alive,Human,,Male,https://rickandmortyapi.com/api/location/87,https://rickandmortyapi.com/api/location/87,1
+542,543,Vermigurber,Alive,Alien,Fly,Male,,https://rickandmortyapi.com/api/location/84,1
+543,544,Miles Knightly,Dead,Alien,,Male,,https://rickandmortyapi.com/api/location/88,1
+544,545,Heist-Con Receptionist,Alive,Alien,,Female,,https://rickandmortyapi.com/api/location/88,1
+545,546,Angie Flint,Alive,Human,Cyborg,Female,,https://rickandmortyapi.com/api/location/88,1
+546,547,Glar,Alive,Alien,,Male,,https://rickandmortyapi.com/api/location/88,1
+547,548,Truckula,Alive,Mythological Creature,Vampire,Male,,https://rickandmortyapi.com/api/location/88,1
+548,549,Snake Arms,Alive,Alien,,Male,,https://rickandmortyapi.com/api/location/88,1
+549,550,Double Microwawe,Alive,Humanoid,Cyborg,Male,,https://rickandmortyapi.com/api/location/88,1
+550,551,Monitor Lord,Alive,Alien,,Male,,https://rickandmortyapi.com/api/location/88,1
+551,552,Key Catcher,Alive,Alien,,Female,,https://rickandmortyapi.com/api/location/88,1
+552,553,The Shapeshiftress,Alive,Alien,Shapeshifter,Female,,https://rickandmortyapi.com/api/location/88,1
+553,554,Heistotron,Dead,Robot,,Genderless,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/89,1
+554,555,Randotron,Dead,Robot,,Genderless,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/89,1
+555,556,Hephaestus,Alive,Mythological Creature,God,Male,https://rickandmortyapi.com/api/location/90,https://rickandmortyapi.com/api/location/89,1
+556,557,Ventriloquiver,Alive,Humanoid,Dummy,Female,https://rickandmortyapi.com/api/location/91,https://rickandmortyapi.com/api/location/89,1
+557,558,Elon Tusk,Alive,Human,Human with tusks,Male,https://rickandmortyapi.com/api/location/92,https://rickandmortyapi.com/api/location/89,1
+558,559,Gramuflackian Anchorman,Dead,Alien,Gramuflackian,Male,https://rickandmortyapi.com/api/location/93,https://rickandmortyapi.com/api/location/93,1
+559,560,Gramuflackian General,Dead,Alien,Gramuflackian,Male,https://rickandmortyapi.com/api/location/93,https://rickandmortyapi.com/api/location/93,1
+560,561,Netflix Executive,Alive,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+561,562,Balthromaw,Alive,Mythological Creature,Dragon,Male,https://rickandmortyapi.com/api/location/94,https://rickandmortyapi.com/api/location/20,1
+562,563,The Wizard,Dead,Human,,Male,https://rickandmortyapi.com/api/location/94,https://rickandmortyapi.com/api/location/94,1
+563,564,Talking Cat,Alive,Animal,,Male,,https://rickandmortyapi.com/api/location/20,1
+564,565,Debrah,Alive,Mythological Creature,Dragon,Male,https://rickandmortyapi.com/api/location/94,https://rickandmortyapi.com/api/location/94,1
+565,566,Debrah’s Partner,Alive,Mythological Creature,Dragon,Male,https://rickandmortyapi.com/api/location/94,https://rickandmortyapi.com/api/location/94,1
+566,567,Michael,Alive,Mythological Creature,Dragon,Male,https://rickandmortyapi.com/api/location/94,https://rickandmortyapi.com/api/location/94,1
+567,568,Slut Dragon,Alive,Mythological Creature,Dragon,Male,https://rickandmortyapi.com/api/location/94,https://rickandmortyapi.com/api/location/94,1
+568,569,Shadow Jacker,Alive,Mythological Creature,Dragon,Male,https://rickandmortyapi.com/api/location/94,https://rickandmortyapi.com/api/location/94,1
+569,570,Chachi,Dead,Alien,,Male,,https://rickandmortyapi.com/api/location/20,1
+570,571,Slippy,Alive,Animal,Snake,Female,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/78,1
+571,572,Robot Snake,unknown,Robot,Snake,Genderless,https://rickandmortyapi.com/api/location/78,https://rickandmortyapi.com/api/location/78,1
+572,573,Snake Hitler,Dead,Animal,Snake,Male,https://rickandmortyapi.com/api/location/78,https://rickandmortyapi.com/api/location/78,1
+573,574,Snake Lincoln,Dead,Animal,Snake,Male,https://rickandmortyapi.com/api/location/78,https://rickandmortyapi.com/api/location/78,1
+574,575,Snake Resistance Robot,Dead,Robot,Human-Snake hybrid,Genderless,https://rickandmortyapi.com/api/location/78,https://rickandmortyapi.com/api/location/20,1
+575,576,Snake Linguist,unknown,Animal,Snake,Male,https://rickandmortyapi.com/api/location/78,https://rickandmortyapi.com/api/location/78,1
+576,577,Snake Terminator,unknown,Robot,Snake,Male,https://rickandmortyapi.com/api/location/78,https://rickandmortyapi.com/api/location/78,1
+577,578,Snake Soldier,Alive,Animal,Snake,Male,https://rickandmortyapi.com/api/location/78,https://rickandmortyapi.com/api/location/78,1
+578,579,Snake with Legs,Alive,Animal,Snake,Male,https://rickandmortyapi.com/api/location/78,https://rickandmortyapi.com/api/location/78,1
+579,580,Secret Service Snake,Alive,Animal,Snake,Male,https://rickandmortyapi.com/api/location/78,https://rickandmortyapi.com/api/location/78,1
+580,581,Anchosnake,Alive,Animal,Snake,Male,https://rickandmortyapi.com/api/location/78,https://rickandmortyapi.com/api/location/78,1
+581,582,Anchosnake,Alive,Animal,Snake,Female,https://rickandmortyapi.com/api/location/78,https://rickandmortyapi.com/api/location/78,1
+582,583,80's snake,unknown,Animal,Snake,Male,https://rickandmortyapi.com/api/location/78,https://rickandmortyapi.com/api/location/78,1
+583,584,Bar Customer,Alive,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+584,585,Bartender,Alive,Human,,Female,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+585,586,PC Basketball Player,Alive,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+586,587,Cavesnake,Dead,Animal,Snake,Male,https://rickandmortyapi.com/api/location/78,https://rickandmortyapi.com/api/location/78,1
+587,588,Pet Shop Employee,Alive,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+588,589,Snake Reporter,Alive,Animal,Snake,Male,https://rickandmortyapi.com/api/location/78,https://rickandmortyapi.com/api/location/78,1
+589,590,High Pilot,unknown,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+590,591,High Pilot,unknown,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+591,592,Phoenixperson,Dead,Alien,Cyborg,Male,https://rickandmortyapi.com/api/location/15,https://rickandmortyapi.com/api/location/20,3
+592,593,Tickets Please Guy,Dead,Human,Soulless Puppet,Male,https://rickandmortyapi.com/api/location/96,https://rickandmortyapi.com/api/location/97,1
+593,594,Floaty Bloody Man,Dead,Human,Half Soulless Puppet,Male,https://rickandmortyapi.com/api/location/98,https://rickandmortyapi.com/api/location/98,1
+594,595,Floaty Non-Gasm Brotherhood Member,Dead,Alien,Soulless Puppet,Male,https://rickandmortyapi.com/api/location/98,https://rickandmortyapi.com/api/location/98,1
+595,596,Floaty Non-Gasm Brotherhood Member Friend,Dead,Alien,Soulless Puppet,Female,https://rickandmortyapi.com/api/location/98,https://rickandmortyapi.com/api/location/98,1
+596,597,Abradolf Lincler,Alive,Human,Soulless Puppet,Male,https://rickandmortyapi.com/api/location/96,https://rickandmortyapi.com/api/location/96,1
+597,598,Biblesaurus,Alive,Animal,Soulless Puppet,Male,https://rickandmortyapi.com/api/location/96,https://rickandmortyapi.com/api/location/96,1
+598,599,Birdperson,Alive,Alien,Soulless Puppet,Male,https://rickandmortyapi.com/api/location/96,https://rickandmortyapi.com/api/location/96,1
+599,600,Cats Fan,Alive,Alien,Soulless Puppet,Female,https://rickandmortyapi.com/api/location/96,https://rickandmortyapi.com/api/location/96,1
+600,601,Christmas Storyteller,Alive,Alien,Soulless Puppet,Male,https://rickandmortyapi.com/api/location/96,https://rickandmortyapi.com/api/location/96,1
+601,602,Cookies Guy,Alive,Human,Soulless Puppet,Male,https://rickandmortyapi.com/api/location/99,https://rickandmortyapi.com/api/location/99,1
+602,603,Crossy,Alive,unknown,Soulless Puppet,Genderless,https://rickandmortyapi.com/api/location/100,https://rickandmortyapi.com/api/location/100,1
+603,604,Female Scorpion,Dead,Animal,Soulless Puppet,Female,https://rickandmortyapi.com/api/location/99,https://rickandmortyapi.com/api/location/99,1
+604,605,Floaty Bloody Man’s Daughter,Dead,Human,Soulless Puppet,Female,https://rickandmortyapi.com/api/location/98,https://rickandmortyapi.com/api/location/98,1
+605,606,Goomby,Alive,Alien,Soulless Puppet,Male,https://rickandmortyapi.com/api/location/96,https://rickandmortyapi.com/api/location/96,1
+606,607,Hairspray Fan,Alive,Alien,Soulless Puppet,Female,https://rickandmortyapi.com/api/location/96,https://rickandmortyapi.com/api/location/96,1
+607,608,Jesus Christ,Alive,Human,Soulless Puppet,Male,https://rickandmortyapi.com/api/location/100,https://rickandmortyapi.com/api/location/100,1
+608,609,Josh,Dead,Human,Soulless Puppet,Male,https://rickandmortyapi.com/api/location/98,https://rickandmortyapi.com/api/location/98,1
+609,610,Josh's Sister,Dead,Human,Soulless Puppet,Female,https://rickandmortyapi.com/api/location/98,https://rickandmortyapi.com/api/location/98,1
+610,611,Leah,Alive,unknown,Soulless Puppet,Female,https://rickandmortyapi.com/api/location/96,https://rickandmortyapi.com/api/location/96,1
+611,612,Marcus,Alive,Human,Soulless Puppet,Male,https://rickandmortyapi.com/api/location/96,https://rickandmortyapi.com/api/location/96,1
+612,613,Mike Johnson,Alive,Human,Soulless Puppet,Male,https://rickandmortyapi.com/api/location/99,https://rickandmortyapi.com/api/location/99,1
+613,614,Mr. Celery & Friends,Alive,unknown,Soulless Puppet,Genderless,https://rickandmortyapi.com/api/location/100,https://rickandmortyapi.com/api/location/100,1
+614,615,Musical Fan,Alive,Alien,Soulless Puppet,Male,https://rickandmortyapi.com/api/location/96,https://rickandmortyapi.com/api/location/96,1
+615,616,Phantom of the Opera Fan,Alive,Alien,Soulless Puppet,Male,https://rickandmortyapi.com/api/location/96,https://rickandmortyapi.com/api/location/96,1
+616,617,Phoenixperson,Alive,Alien,Soulless Puppet,Male,https://rickandmortyapi.com/api/location/96,https://rickandmortyapi.com/api/location/96,1
+617,618,Private Smith,unknown,Human,Soulless Puppet,Male,https://rickandmortyapi.com/api/location/96,https://rickandmortyapi.com/api/location/96,1
+618,619,Professor Sanchez,Dead,Human,Soulless Puppet,Male,https://rickandmortyapi.com/api/location/96,https://rickandmortyapi.com/api/location/96,1
+619,620,Ramamama Lord,Alive,Human,Soulless Puppet,Male,https://rickandmortyapi.com/api/location/96,https://rickandmortyapi.com/api/location/96,1
+620,621,Ruth Bader Ginsburg,Alive,Human,Soulless Puppet,Female,https://rickandmortyapi.com/api/location/99,https://rickandmortyapi.com/api/location/99,1
+621,622,Sarge,Alive,Human,Soulless Puppet,Male,https://rickandmortyapi.com/api/location/96,https://rickandmortyapi.com/api/location/96,1
+622,623,Shrek The Musical Fan,Alive,Alien,Soulless Puppet,Male,https://rickandmortyapi.com/api/location/96,https://rickandmortyapi.com/api/location/96,1
+623,624,Snuffles,Alive,Animal,Soulless Puppet,Male,https://rickandmortyapi.com/api/location/96,https://rickandmortyapi.com/api/location/96,1
+624,625,Storylord,Alive,Human,Soulless Puppet,Male,https://rickandmortyapi.com/api/location/96,https://rickandmortyapi.com/api/location/100,1
+625,626,Tammy Guetermann,Alive,Human,Soulless Puppet,Female,https://rickandmortyapi.com/api/location/96,https://rickandmortyapi.com/api/location/96,1
+626,627,The Concept of Time,Alive,unknown,Soulless Puppet,Genderless,https://rickandmortyapi.com/api/location/96,https://rickandmortyapi.com/api/location/96,1
+627,628,Beth Smith,Alive,Human,Soulless Puppet,Female,https://rickandmortyapi.com/api/location/99,https://rickandmortyapi.com/api/location/99,1
+628,629,Summer Smith,Alive,Human,Soulless Puppet,Female,https://rickandmortyapi.com/api/location/99,https://rickandmortyapi.com/api/location/99,1
+629,630,Morty Smith,Alive,Human,Soulless Puppet,Male,https://rickandmortyapi.com/api/location/96,https://rickandmortyapi.com/api/location/96,1
+630,631,Rick Sanchez,Alive,Human,Soulless Puppet,Male,https://rickandmortyapi.com/api/location/96,https://rickandmortyapi.com/api/location/96,1
+631,632,Train Cop,Dead,Human,Soulless Puppet,Male,https://rickandmortyapi.com/api/location/96,https://rickandmortyapi.com/api/location/96,1
+632,633,Train Cops,Alive,Human,Soulless Puppet,Female,https://rickandmortyapi.com/api/location/96,https://rickandmortyapi.com/api/location/96,1
+633,634,Train Cops Instructor,Dead,Human,Soulless Puppet,Male,https://rickandmortyapi.com/api/location/96,https://rickandmortyapi.com/api/location/96,1
+634,635,Darth Poopybutthole,Alive,Poopybutthole,Soulless Puppet,Male,https://rickandmortyapi.com/api/location/100,https://rickandmortyapi.com/api/location/100,1
+635,636,Evil Morty,Alive,Human,Soulless Puppet,Male,https://rickandmortyapi.com/api/location/100,https://rickandmortyapi.com/api/location/100,1
+636,637,Morty’s Disguise,Alive,Human,Soulless Puppet,Female,https://rickandmortyapi.com/api/location/96,https://rickandmortyapi.com/api/location/96,1
+637,638,Rick’s Disguise,Alive,Human,Soulless Puppet,Male,https://rickandmortyapi.com/api/location/96,https://rickandmortyapi.com/api/location/96,1
+638,639,Uncle Nibbles,Dead,Alien,Soulless Puppet,Male,https://rickandmortyapi.com/api/location/98,https://rickandmortyapi.com/api/location/98,1
+639,640,Angry Glorzo,Dead,Alien,Glorzo,Male,https://rickandmortyapi.com/api/location/101,https://rickandmortyapi.com/api/location/101,1
+640,641,Bruce,Dead,Alien,Glorzo,Male,https://rickandmortyapi.com/api/location/101,https://rickandmortyapi.com/api/location/101,1
+641,642,Council of Glorzos Member,Dead,Alien,Glorzo,Male,https://rickandmortyapi.com/api/location/101,https://rickandmortyapi.com/api/location/101,1
+642,643,Council of Glorzos Member,Dead,Alien,Glorzo,Male,https://rickandmortyapi.com/api/location/101,https://rickandmortyapi.com/api/location/101,1
+643,644,Old Glorzo,Dead,Alien,Glorzo,Male,https://rickandmortyapi.com/api/location/101,https://rickandmortyapi.com/api/location/101,1
+644,645,Shane,unknown,Alien,Glorzo,Male,https://rickandmortyapi.com/api/location/101,https://rickandmortyapi.com/api/location/101,1
+645,646,Steve,Dead,Alien,Glorzo,Male,https://rickandmortyapi.com/api/location/101,https://rickandmortyapi.com/api/location/101,1
+646,647,Troy,Dead,Alien,Glorzo,Male,https://rickandmortyapi.com/api/location/101,https://rickandmortyapi.com/api/location/101,1
+647,648,Crystal Dealers Boss,Dead,Alien,,Male,,https://rickandmortyapi.com/api/location/102,1
+648,649,Crystal Dealer,Dead,Alien,,Male,,https://rickandmortyapi.com/api/location/102,1
+649,650,Crystal Dealer,Dead,Alien,,Male,,https://rickandmortyapi.com/api/location/102,1
+650,651,Crystal Dealer,Dead,Alien,,Male,,https://rickandmortyapi.com/api/location/102,1
+651,652,SWAT Officer,Dead,Human,,Male,https://rickandmortyapi.com/api/location/103,https://rickandmortyapi.com/api/location/103,1
+652,653,Plane Crash Survivor,unknown,Human,,Female,https://rickandmortyapi.com/api/location/104,https://rickandmortyapi.com/api/location/104,1
+653,654,Plane Crash Survivor,unknown,Human,,Male,https://rickandmortyapi.com/api/location/104,https://rickandmortyapi.com/api/location/104,1
+654,655,Heroine Keith,Alive,Human,,Male,https://rickandmortyapi.com/api/location/104,https://rickandmortyapi.com/api/location/103,1
+655,656,Impervious to Acid SWAT Officer,Dead,Human,,Male,https://rickandmortyapi.com/api/location/103,https://rickandmortyapi.com/api/location/103,1
+656,657,Johnny Carson,Alive,Human,,Male,https://rickandmortyapi.com/api/location/103,https://rickandmortyapi.com/api/location/103,1
+657,658,Sonia Sotomayor,Alive,Human,,Female,https://rickandmortyapi.com/api/location/103,https://rickandmortyapi.com/api/location/103,1
+658,659,Morty’s Father-in-law,Alive,Human,,Male,https://rickandmortyapi.com/api/location/104,https://rickandmortyapi.com/api/location/104,1
+659,660,Morty’s Mother-in-law,Alive,Human,,Female,https://rickandmortyapi.com/api/location/104,https://rickandmortyapi.com/api/location/104,1
+660,661,Morty’s Girlfriend,Alive,Human,,Female,https://rickandmortyapi.com/api/location/104,https://rickandmortyapi.com/api/location/103,1
+661,662,Gaia,Alive,unknown,Planet,Female,https://rickandmortyapi.com/api/location/106,https://rickandmortyapi.com/api/location/106,1
+662,663,Reggie,Dead,Mythological Creature,Zeus,Male,https://rickandmortyapi.com/api/location/90,https://rickandmortyapi.com/api/location/106,1
+663,664,Ticktock,unknown,Humanoid,Clay-Person,Genderless,https://rickandmortyapi.com/api/location/106,https://rickandmortyapi.com/api/location/106,1
+664,665,Florflock,Alive,Humanoid,Clay-Person,Genderless,https://rickandmortyapi.com/api/location/106,https://rickandmortyapi.com/api/location/106,1
+665,666,Squeeb,Alive,Humanoid,Clay-Person,Genderless,https://rickandmortyapi.com/api/location/106,https://rickandmortyapi.com/api/location/106,1
+666,667,Defiance Beth,Alive,Human,Clone,Female,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,2
+667,668,Defiance Squanchette,Alive,Alien,Cat-Person,Female,https://rickandmortyapi.com/api/location/35,https://rickandmortyapi.com/api/location/107,1
+668,669,Defiance Doctor,Alive,Alien,,Male,,https://rickandmortyapi.com/api/location/108,1
+669,670,New Improved Galactic Federation Guard,Dead,Alien,Gromflomite,Male,https://rickandmortyapi.com/api/location/19,https://rickandmortyapi.com/api/location/105,1
+670,671,New Improved Galactic Federation Guard,Dead,Alien,Gromflomite,Male,https://rickandmortyapi.com/api/location/19,https://rickandmortyapi.com/api/location/105,1
+671,672,Mr. Nimbus,Alive,Mythological Creature,Sexy Aquaman,Male,https://rickandmortyapi.com/api/location/109,https://rickandmortyapi.com/api/location/20,1
+672,673,Hoovy,Dead,Humanoid,Narnian,Male,https://rickandmortyapi.com/api/location/110,https://rickandmortyapi.com/api/location/110,1
+673,674,Bova,Dead,Humanoid,Narnian,Female,https://rickandmortyapi.com/api/location/110,https://rickandmortyapi.com/api/location/110,1
+674,675,Japheth,Dead,Humanoid,Narnian,Male,https://rickandmortyapi.com/api/location/110,https://rickandmortyapi.com/api/location/110,1
+675,676,Japheth's Middle Son,Dead,Humanoid,Narnian,Male,https://rickandmortyapi.com/api/location/110,https://rickandmortyapi.com/api/location/110,1
+676,677,Japheth's Eldest Son,Dead,Humanoid,Narnian,Male,https://rickandmortyapi.com/api/location/110,https://rickandmortyapi.com/api/location/110,1
+677,678,Japheth's Youngest Son,Dead,Humanoid,Narnian,Male,https://rickandmortyapi.com/api/location/110,https://rickandmortyapi.com/api/location/110,1
+678,679,Japheth's Grandson,Dead,Humanoid,Narnian,Male,https://rickandmortyapi.com/api/location/110,https://rickandmortyapi.com/api/location/110,1
+679,680,Adam,Dead,Humanoid,Narnian,Male,https://rickandmortyapi.com/api/location/110,https://rickandmortyapi.com/api/location/20,1
+680,681,Adam's Mother,Dead,Humanoid,Narnian,Female,https://rickandmortyapi.com/api/location/110,https://rickandmortyapi.com/api/location/110,1
+681,682,Warlock,Dead,Humanoid,Narnian,Male,https://rickandmortyapi.com/api/location/110,https://rickandmortyapi.com/api/location/110,1
+682,683,Evolved Narnian,Alive,Humanoid,Narnian,Male,https://rickandmortyapi.com/api/location/110,https://rickandmortyapi.com/api/location/110,1
+683,684,Mr. Nimbus Secretary,Alive,Animal,Starfish,Female,https://rickandmortyapi.com/api/location/109,https://rickandmortyapi.com/api/location/20,1
+684,685,Evolved Narnian Disguised as Morty,Alive,Humanoid,Narnian,Male,https://rickandmortyapi.com/api/location/110,https://rickandmortyapi.com/api/location/110,1
+685,686,Mr. Nimbus' Squid,Dead,Animal,Squid,Male,https://rickandmortyapi.com/api/location/109,https://rickandmortyapi.com/api/location/20,1
+686,687,Scarecrow Rick,Dead,Robot,Decoy,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+687,688,Scarecrow Summer,Dead,Robot,Decoy,Female,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+688,689,Scarecrow Jerry,Dead,Robot,Decoy,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+689,690,Scarecrow Morty,Dead,Robot,Decoy,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+690,691,Scarecrow Beth,Dead,Robot,Decoy,Female,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+691,692,Glockenspiel Jerry,Alive,Robot,Decoy,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+692,693,Glockenspiel Beth,Dead,Robot,Decoy,Female,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+693,694,Glockenspiel Rick,Dead,Robot,Decoy,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+694,695,Glockenspiel Summer,Dead,Robot,Decoy,Female,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+695,696,Glockenspiel Morty,Dead,Robot,Decoy,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+696,697,Wicker Beth,Dead,Robot,Decoy,Female,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+697,698,Wicker Rick,Dead,Robot,Decoy,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+698,699,Wicker Morty,Dead,Robot,Decoy,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+699,700,Wicker Summer,Dead,Robot,Decoy,Female,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+700,701,Metal Rick,Dead,Robot,Decoy,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+701,702,Gun Brain Rick,Dead,Robot,Decoy,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+702,703,Mr. Always Wants to be Hunted,Alive,Poopybutthole,,Male,,https://rickandmortyapi.com/api/location/20,1
+703,704,Squid Costume Beth,Dead,Robot,Decoy,Female,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+704,705,Squid Costume Jerry,Dead,Robot,Decoy,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+705,706,Squid Costume Morty,Dead,Robot,Decoy,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+706,707,Squid Costume Rick,Dead,Robot,Decoy,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+707,708,Squid Costume Summer,Dead,Robot,Decoy,Female,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+708,709,Dracula,Alive,Mythological Creature,Vampire,Male,https://rickandmortyapi.com/api/location/6,https://rickandmortyapi.com/api/location/6,1
+709,710,Steve,Alive,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+710,711,When Wolf,Alive,Mythological Creature,Whenwolf,Male,https://rickandmortyapi.com/api/location/6,https://rickandmortyapi.com/api/location/6,1
+711,712,Too Cute to Murder Beth,Dead,Robot,Decoy,Female,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+712,713,Too Cute to Murder Rick,Dead,Robot,Decoy,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+713,714,Too Cute to Murder Jerry,Dead,Robot,Decoy,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+714,715,Too Cute to Murder Morty,Dead,Robot,Decoy,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+715,716,Too Cute to Murder Summer,Dead,Robot,Decoy,Female,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+716,717,Planetina,Alive,Humanoid,Summon,Female,https://rickandmortyapi.com/api/location/111,https://rickandmortyapi.com/api/location/20,1
+717,718,Daphne,Alive,Alien,Morglutzian,Female,https://rickandmortyapi.com/api/location/112,https://rickandmortyapi.com/api/location/113,1
+718,719,Diesel Weasel,Alive,Animal,Weasel,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+719,720,Eddie,Dead,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+720,721,Xing Ho,Dead,Human,,Female,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+721,722,Air Tina-Teer,Dead,Human,,Female,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+722,723,Water Tina-Teer,Dead,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+723,724,Planetina Buyer,Dead,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+724,725,Tony Galopagus,Alive,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+725,726,Sticky,Alive,unknown,Super Sperm Monster,Male,https://rickandmortyapi.com/api/location/114,https://rickandmortyapi.com/api/location/20,1
+726,727,Professor Shabooboo,Dead,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+727,728,Sperm Queen,Dead,unknown,Super Sperm Monster,Female,https://rickandmortyapi.com/api/location/114,https://rickandmortyapi.com/api/location/20,1
+728,729,CHUD King,Alive,Animal,CHUD,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+729,730,Princess Ponietta,Alive,Animal,CHUD,Female,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+730,731,Naruto Smith,Alive,Humanoid,Giant Incest Baby,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/115,2
+731,732,Blazen,Dead,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+732,733,Kathy Ireland,Alive,Human,,Female,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+733,734,Amazing Johnathan,Alive,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+734,735,Foal Sanchez,Alive,Humanoid,CHUD Human Mix,unknown,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+735,736,Spaceman,Dead,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/115,1
+736,737,Cirque du Soleil Zumanity Member,Alive,Human,,Female,https://rickandmortyapi.com/api/location/104,https://rickandmortyapi.com/api/location/20,1
+737,738,Cirque du Soleil Zumanity Member,Alive,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+738,739,Cirque du Soleil Zumanity Member,Alive,Human,,Female,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+739,740,Cirque du Soleil Zumanity Member,Dead,Human,,Female,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+740,741,Cirque du Soleil Zumanity Member,Alive,Human,,Female,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+741,742,Bruce Chutback,Alive,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+742,743,Alyson Hannigan,Dead,Alien,,Female,,https://rickandmortyapi.com/api/location/117,1
+743,744,Cenobite,unknown,Mythological Creature,Demon,Male,https://rickandmortyapi.com/api/location/116,https://rickandmortyapi.com/api/location/116,1
+744,745,Cenobite,unknown,Mythological Creature,Demon,Female,https://rickandmortyapi.com/api/location/116,https://rickandmortyapi.com/api/location/116,1
+745,746,Cenobite,unknown,Mythological Creature,Demon,Male,https://rickandmortyapi.com/api/location/116,https://rickandmortyapi.com/api/location/116,1
+746,747,Cenobite,unknown,Mythological Creature,Demon,Male,https://rickandmortyapi.com/api/location/116,https://rickandmortyapi.com/api/location/116,1
+747,748,Cenobite,unknown,Mythological Creature,Demon,Male,https://rickandmortyapi.com/api/location/116,https://rickandmortyapi.com/api/location/116,1
+748,749,Coat Rack Head,unknown,Mythological Creature,Demon,Male,https://rickandmortyapi.com/api/location/116,https://rickandmortyapi.com/api/location/116,1
+749,750,Mousetrap Nipples,unknown,Mythological Creature,Demon,Male,https://rickandmortyapi.com/api/location/116,https://rickandmortyapi.com/api/location/116,1
+750,751,Changeformer,Dead,Robot,Changeformer,Male,https://rickandmortyapi.com/api/location/118,https://rickandmortyapi.com/api/location/118,1
+751,752,Changeformer,Dead,Robot,Changeformer,Male,https://rickandmortyapi.com/api/location/118,https://rickandmortyapi.com/api/location/118,1
+752,753,Space Cruiser,Alive,Robot,Artificial Intelligence,Female,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,2
+753,754,Coop,Alive,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+754,755,Dwayne,Alive,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+755,756,Franklin D. Roosevelt,Dead,Humanoid,Guinea Pig for the Polio Vaccine,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+756,757,President's General,Alive,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,2
+757,758,Giant Assassin Hidden in the Statue of Liberty,Alive,Robot,,Female,https://rickandmortyapi.com/api/location/119,https://rickandmortyapi.com/api/location/20,1
+758,759,Turkey Morty,Alive,Animal,Turkey,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+759,760,Turkey Rick,Alive,Animal,Turkey,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+760,761,Turkey President Curtis,Alive,Animal,Turkey,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+761,762,Martínez,Dead,Animal,Turkey,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+762,763,Marvin,Alive,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+763,764,Jackey,Alive,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+764,765,Native Alien,Alive,Alien,,Male,,https://rickandmortyapi.com/api/location/20,1
+765,766,Pilgrim Alien,Alive,Alien,,Male,,https://rickandmortyapi.com/api/location/20,1
+766,767,President Turkey,Dead,Humanoid,Turkey Human Mix,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+767,768,Mary-Lou,Alive,Human,,Female,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+768,769,Big Fat rick,unknown,Human,,Male,,https://rickandmortyapi.com/api/location/20,1
+769,770,Hothead Rick,Dead,Human,,Male,,https://rickandmortyapi.com/api/location/20,1
+770,771,Ricardo Montoya,unknown,Human,,Male,,https://rickandmortyapi.com/api/location/20,1
+771,772,Wrap-it-up Little Rick,Dead,Human,,Male,,https://rickandmortyapi.com/api/location/20,1
+772,773,Yo-yo Rick,unknown,Human,,Male,,https://rickandmortyapi.com/api/location/20,1
+773,774,Voiceoverian,Dead,Alien,Parasite,unknown,,https://rickandmortyapi.com/api/location/20,1
+774,775,Voiceoverian,Dead,Alien,Parasite,unknown,,https://rickandmortyapi.com/api/location/20,1
+775,776,Gotron Pilot,Dead,Human,Anime,Male,,https://rickandmortyapi.com/api/location/20,1
+776,777,Gotron Pilot,Dead,Human,Anime,Male,,https://rickandmortyapi.com/api/location/20,1
+777,778,Gotron Pilot,Dead,Human,Anime,Male,,https://rickandmortyapi.com/api/location/20,1
+778,779,Young Memory Rick,Alive,Human,Memory,Male,https://rickandmortyapi.com/api/location/120,https://rickandmortyapi.com/api/location/126,1
+779,780,Memory Tammy,Dead,Human,Memory,Female,https://rickandmortyapi.com/api/location/120,https://rickandmortyapi.com/api/location/120,1
+780,781,Rick's Garage,Alive,Robot,Artificial Intelligence,Female,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+781,782,Memory Squanchy,Dead,Alien,Memory,Male,https://rickandmortyapi.com/api/location/120,https://rickandmortyapi.com/api/location/120,1
+782,783,Memory Rick,Dead,Human,Memory,Male,https://rickandmortyapi.com/api/location/120,https://rickandmortyapi.com/api/location/120,1
+783,784,Memory Rick,Dead,Human,Memory,Male,https://rickandmortyapi.com/api/location/120,https://rickandmortyapi.com/api/location/120,1
+784,785,Memory Geardude,Dead,Alien,Memory,Male,https://rickandmortyapi.com/api/location/120,https://rickandmortyapi.com/api/location/120,1
+785,786,Birdperson & Tammy's Child,Alive,Humanoid,Bird-Person Human Mix,Female,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+786,787,Two Crows,Alive,Animal,Crow,unknown,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/125,2
+787,788,Mr. Cookie President,Alive,Alien,Cookie,Male,,https://rickandmortyapi.com/api/location/20,1
+788,789,Nick,Dead,Human,,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+789,790,Harold (Garbage Goober),Alive,Alien,,Male,,https://rickandmortyapi.com/api/location/20,1
+790,791,Harold's Wife,Alive,Alien,,Female,,https://rickandmortyapi.com/api/location/20,1
+791,792,Alien Crow,Dead,Alien,Crow,Male,https://rickandmortyapi.com/api/location/122,https://rickandmortyapi.com/api/location/122,1
+792,793,Alien Crow,Dead,Alien,Crow,Female,https://rickandmortyapi.com/api/location/122,https://rickandmortyapi.com/api/location/122,1
+793,794,Samansky,Dead,Alien,Normal Size Bug,Male,https://rickandmortyapi.com/api/location/123,https://rickandmortyapi.com/api/location/20,1
+794,795,Palicki,Alive,Alien,Normal Size Bug,Male,https://rickandmortyapi.com/api/location/123,https://rickandmortyapi.com/api/location/123,1
+795,796,Sarge,Alive,Alien,Normal Size Bug,Male,https://rickandmortyapi.com/api/location/123,https://rickandmortyapi.com/api/location/123,1
+796,797,Slartivartian,Dead,Alien,Slartivartian,Male,https://rickandmortyapi.com/api/location/124,https://rickandmortyapi.com/api/location/124,1
+797,798,Ferkusian,Alive,Alien,Ferkusian,Male,https://rickandmortyapi.com/api/location/113,https://rickandmortyapi.com/api/location/113,1
+798,799,Morglutzian,Dead,Alien,Morglutzian,Male,https://rickandmortyapi.com/api/location/112,https://rickandmortyapi.com/api/location/112,1
+799,800,Super Turkey,Dead,Humanoid,Turkey Human Mix,Male,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+800,801,7+7 Years Old Morty,unknown,Human,,Male,https://rickandmortyapi.com/api/location/3,https://rickandmortyapi.com/api/location/3,1
+801,802,26 Years Old Morty,Dead,Human,,Male,https://rickandmortyapi.com/api/location/3,https://rickandmortyapi.com/api/location/3,1
+802,803,40 Years Old Morty,unknown,Human,,Male,https://rickandmortyapi.com/api/location/3,https://rickandmortyapi.com/api/location/3,1
+803,804,Andy,unknown,Human,Mascot,Male,,https://rickandmortyapi.com/api/location/3,1
+804,805,Baby Mouse Skin Morty,Alive,Human,,Male,https://rickandmortyapi.com/api/location/3,https://rickandmortyapi.com/api/location/3,1
+805,806,Metaphor for Capitalism,Dead,Humanoid,,Male,https://rickandmortyapi.com/api/location/3,https://rickandmortyapi.com/api/location/3,1
+806,807,Beth Sanchez,Dead,Human,,Female,https://rickandmortyapi.com/api/location/1,https://rickandmortyapi.com/api/location/126,1
+807,808,Crow Scare,Alive,Humanoid,Scarecrow,Male,https://rickandmortyapi.com/api/location/125,https://rickandmortyapi.com/api/location/125,1
+808,809,Pussifer,Dead,Animal,Tiger,Male,https://rickandmortyapi.com/api/location/125,https://rickandmortyapi.com/api/location/125,1
+809,810,Stan Lee Rick,unknown,Human,,Male,,https://rickandmortyapi.com/api/location/3,1
+810,811,Re-Build-a-Morty Morty,unknown,Human,,Male,,https://rickandmortyapi.com/api/location/3,1
+811,812,Deformed Morty,Dead,Humanoid,,Male,https://rickandmortyapi.com/api/location/3,https://rickandmortyapi.com/api/location/3,1
+812,813,Crow Horse,Alive,Robot,Crow Horse,unknown,https://rickandmortyapi.com/api/location/125,https://rickandmortyapi.com/api/location/20,1
+813,814,Bald Rick,Dead,Human,,Male,,https://rickandmortyapi.com/api/location/126,1
+814,815,Punk Rick,Dead,Human,,Male,,https://rickandmortyapi.com/api/location/126,1
+815,816,Party Rick,Dead,Human,,Male,,https://rickandmortyapi.com/api/location/126,1
+816,817,Scar Rick,Dead,Human,,Male,,https://rickandmortyapi.com/api/location/126,1
+817,818,Long Hair Rick,unknown,Human,,Male,,https://rickandmortyapi.com/api/location/3,1
+818,819,Redhead Rick,Dead,Human,,Male,,https://rickandmortyapi.com/api/location/3,1
+819,820,Redhead Morty,Dead,Human,,Male,,https://rickandmortyapi.com/api/location/3,1
+820,821,Gotron,unknown,Robot,Ferret Robot,Genderless,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
+821,822,Young Jerry,unknown,Human,,Male,https://rickandmortyapi.com/api/location/30,https://rickandmortyapi.com/api/location/30,1
+822,823,Young Beth,unknown,Human,,Female,https://rickandmortyapi.com/api/location/30,https://rickandmortyapi.com/api/location/30,1
+823,824,Young Beth,unknown,Human,,Female,https://rickandmortyapi.com/api/location/30,https://rickandmortyapi.com/api/location/30,1
+824,825,Young Jerry,unknown,Human,,Male,https://rickandmortyapi.com/api/location/30,https://rickandmortyapi.com/api/location/30,1
+825,826,Butter Robot,Alive,Robot,Passing Butter Robot,Genderless,https://rickandmortyapi.com/api/location/20,https://rickandmortyapi.com/api/location/20,1
