@@ -35,7 +35,7 @@ def exctract():
                 )
             print(f"Location ID {index} added to data frame")
     # Save location data to csv
-    df_location.to_csv("location_data.csv")
+    df_location.to_csv("extracted_location_data.csv")
     print(f"Saved Location Data to CSV")
 
 
@@ -71,7 +71,7 @@ def exctract():
                 )
             print(f"Character ID {index} added to data frame")
     # Save character data to csv
-    df_character.to_csv("character_data.csv")
+    df_character.to_csv("extracted_character_data.csv")
     print(f"Saved Character Data to CSV")
 
     
